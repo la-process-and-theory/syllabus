@@ -1,17 +1,17 @@
-# Core Methods in Educational Data Mining: Syllabus
+# Learning Analytics, Theory & Practice: Syllabus
 
-* **Course:** [HUDK 4050, Teachers College, Columbia] (http://www.columbia.edu/~rsb2162/EDM2015/index.html)
-* **Instructor:** Charles Lang, [lang2@tc.columbia.edu](lang2@tc.columbia.edu), @learng00d, #TCLA16
-* **Day/Time:** Tuesdays/Thursdays, 11:00am - 12:40pm  
-* **Location:** GDH 535
-* **Instructor Office Hours:** Thursdays, 1:00pm - 3:00pm or [by appointment](https://calendar.google.com/calendar/selfsched?sstoken=UUNxY1RIY01kNmJZfGRlZmF1bHR8M2U5ODgxZmNiOWQ0NDc2N2VmNWQ0NThiM2JmMGRmZmQ) in GDH 540
-*  **Prerequisite:** HUDM 5122 *or* HUDM 5126 *or* approved statistics/computer science data mining course.
+* **Course:** [HUDK 4051, Teachers College, Columbia] (https://github.com/la-theory-and-practice)
+* **Instructor:** Charles Lang, [charles.lang@tc.columbia.edu](charles.lang@tc.columbia.edu), @learng00d, #TCLA16
+* **Day/Time:** Thursdays, 2:00pm - 3:40pm  
+* **Location:** GDH 461
+* **Instructor Office Hours:** Tuesdays & Thursdays, 3:40pm - 5:40pm or [by appointment](https://calendar.google.com/calendar/selfsched?sstoken=UUNxY1RIY01kNmJZfGRlZmF1bHR8M2U5ODgxZmNiOWQ0NDc2N2VmNWQ0NThiM2JmMGRmZmQ) in GDH 540
+*  **Prerequisite:** HUDK 4050 *or* approved statistics/computer science data mining course.
 *  **Credits:** 3
-*  **Required Technology:** Laptop with RStudio installed, Phone with the Sensor Kinetics Pro app installed
+*  **Required Technology:** Laptop with RStudio installed
 
 ## Course Description
 
-The Internet and mobile computing are changing our relationship to data. Data can be collected from more people, across longer periods of time, and a greater number of variables, at a lower cost and with less effort than ever before. This has brought opportunities and challenges to many domains, but the full impact on education is only beginning to be felt. Core Methods in Educational Data Mining provides an overview of the use of new data sources in education with the aim of developing students’ ability to perform analyses and critically evaluate their application in this emerging field. It covers methods and technologies associated with Data Science, Educational Data Mining and Learning Analytics, as well as discusses the opportunities for education that these methods present and the problems that they may create.
+The Internet and mobile computing are changing our relationship to data. Data can be collected from more people, across longer periods of time, and a greater number of variables, at a lower cost and with less effort than ever before. This has brought opportunities and challenges to many domains, but the full impact on education is only beginning to be felt. Learning Analytics, Theory & Practice builds on HUDK 4050 Core Methods in Educational Data Mining to provide advanced techniques in the use of new data sources in education with the aim of developing students’ ability to perform analyses and critically evaluate their application in this emerging field. It covers methods and technologies associated with Data Science, Educational Data Mining and Learning Analytics, as well as discusses the opportunities for education that these methods present and the problems that they may create.
 
 ## Course Goals
 
@@ -24,23 +24,21 @@ This necessarily means that students become comfortable with the educational app
 
 ## Assessment
 
-In EDCT-GE 2550 students will be attempting several data science projects, however, unlike most courses, students will not be asssessed based on how successful they are in completing these projects. Rather students will be assessed on two key components that will contribute to their future sucess in the field: contribution and organization. **Contribution** reflects the extent to which students participate in the course, whether or not students complete assignments and quizzes, attend class, etc. **Organization** reflects how well students document their process and maintain data and software resources. For example, maintaining a well organized bibliographic library with notes, maintaining a well organized Github account and maintaining organized data sets that are labelled appropriately. To do well in HUDM 4050 requires that students finish the course with the resources to sucessfully use data science in education *in the future*. Do the work and stay organized and all will be well!
+In HUDK 4051 students will be attempting several data science projects, however, unlike most courses, students will not be asssessed based on how successful they are in completing these projects. Rather students will be assessed on two key components that will contribute to their future sucess in the field: contribution and organization. **Contribution** reflects the extent to which students participate in the course, whether or not students complete assignments and quizzes, attend class, etc. **Organization** reflects how well students document their process and maintain data and software resources. For example, maintaining a well organized bibliographic library with notes, maintaining a well organized Github account and maintaining organized data sets that are labelled appropriately. To do well in HUDM 4050 requires that students finish the course with the resources to sucessfully use data science in education *in the future*. Do the work and stay organized and all will be well!
 
 Tasks that need to be completed during the semester:
 
 Weekly:
  * Attend class
  * Weekly readings
- * Comment on readings on Twitter
  * Maintain documentation of work (Github, R Markdown, Zotero)
 
 One time only:
- * Ask one question on Stack Overflow
  * In person meeting with instructor
  * 8 short assignments (including one group assignment)
  * Group presentation of group assignment, 3-5 students each
  * Submit Zotero file with semester's notes
- * *Record a tutorial session*
+ * Record a tutorial session
 
 ## Week-by-week
 

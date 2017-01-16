@@ -24,7 +24,7 @@ This necessarily means that students become comfortable with the educational app
 
 ## Assessment
 
-In HUDK 4051 students will be attempting several data science projects, however, unlike most courses, students will not be asssessed based on how successful they are in completing these projects. Rather students will be assessed on two key components that will contribute to their future sucess in the field: contribution and organization. **Contribution** reflects the extent to which students participate in the course, whether or not students complete assignments and quizzes, attend class, etc. **Organization** reflects how well students document their process and maintain data and software resources. For example, maintaining a well organized bibliographic library with notes, maintaining a well organized Github account and maintaining organized data sets that are labelled appropriately. To do well in HUDM 4050 requires that students finish the course with the resources to sucessfully use data science in education *in the future*. Do the work and stay organized and all will be well!
+In HUDK 4051 students will be attempting several data science projects, 
 
 Tasks that need to be completed during the semester:
 
@@ -35,9 +35,9 @@ Weekly:
 
 One time only:
  * In person meeting with instructor
- * 6 assignments (including one group assignment)
+ * 6 assignments
  * Group presentation 
- * Mid-semester take home exam
+ * Mid-semester take-home exam
  * Record a tutorial session
 
 ## Week-by-week
@@ -73,21 +73,18 @@ Read
 ### Tasks to be completed:
 
 Read
-* [Leong, B. and Polonetsky, J. 2016. Passing the Privacy Test as Student Data Laws Take Effect. EdSurge.](https://www.edsurge.com/news/2016-01-12-passing-the-privacy-test-as-student-data-laws-take-effect?utm_content=bufferc0042&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
-* [Greller, W., & Drachsler, H. (2012). Translating Learning into Numbers: A Generic Framework for Learning Analytics. Journal of Educational Technology & Society, 15(3), 42–57.](https://www.jstor.org/stable/jeductechsoci.15.3.42?seq=1#page_scan_tab_contents)
+* [Adhatrao, K., Gaykar, A., Dhawan, A., Jha, R., & Honrao, V. (2013). Predicting Students’ Performance using ID3 and C4. 5 Classification Algorithms. International Journal of Data Mining & Knowledge Management Proces, 3(5).](https://arxiv.org/ftp/arxiv/papers/1310/1310.2071.pdf)
  
-## Class 5 - Data Wrangling (9/22/16)
+## Class 3 - Advanced Social Network Analysis (2/2/17)
 
 ### Learning Objectives:
 
- * Be able to perform a data tidying workflow
+ * Understand measures of centrality and network structure
 
 ### Tasks to be completed:
 
 Read:
-* [Saturday Morning Breakfast Cereal: 2016.](http://www.smbc-comics.com/index.php?id=3978)
-
-* [Data Wrangling Cheatsheet: 2015.](http://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
+* [Bakharia, A., & Dawson, S. (2011). SNAPP: A Bird’S-eye View of Temporal Participant Interaction. In Proceedings of the 1st International Conference on Learning Analytics and Knowledge (pp. 168–173). Banff, Alberta, Canada:ACM.](https://doi.org/10.1145/2090116.2090144)
 
 ## Class 6 - Data Wrangling (9/27/16)
 

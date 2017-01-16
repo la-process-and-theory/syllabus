@@ -24,7 +24,7 @@ This necessarily means that students become comfortable with the educational app
 
 ## Assessment
 
-In HUDK 4051 students will be attempting several data science projects, 
+In HUDK 4051 students will be assessed on their completion of six data science projects. In addition, there will be a mid-semester exam that will *begin* during class on March 9 and be completed by March 11. The exam will not contribute to students' grade, the exam will provide feedback for students to incorporate into their future assignments.
 
 Tasks that need to be completed during the semester:
 
@@ -38,7 +38,7 @@ One time only:
  * 6 assignments
  * Group presentation 
  * Mid-semester take-home exam
- * Record a tutorial session
+ * Record a tutorial session - Recordings will take place on Tuesdays (please sign up for a week)[https://docs.google.com/a/tc.columbia.edu/spreadsheets/d/1fCEK3q-DomnjBYtt_GxIp7QfefAWVexIQz1mgcenIxw/edit?usp=sharing]
 
 ## Week-by-week
 

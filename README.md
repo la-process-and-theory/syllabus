@@ -38,7 +38,7 @@ One time only:
  * 6 assignments
  * Group presentation 
  * Mid-semester take-home exam
- * Record a tutorial session - Recordings will take place on Tuesdays (please sign up for a week)[https://docs.google.com/a/tc.columbia.edu/spreadsheets/d/1fCEK3q-DomnjBYtt_GxIp7QfefAWVexIQz1mgcenIxw/edit?usp=sharing]
+ * Record a tutorial session - Recordings will take place on Tuesdays [please sign up for a week](https://docs.google.com/a/tc.columbia.edu/spreadsheets/d/1fCEK3q-DomnjBYtt_GxIp7QfefAWVexIQz1mgcenIxw/edit?usp=sharing)
 
 ## Week-by-week
 

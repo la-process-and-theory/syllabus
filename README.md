@@ -35,66 +35,44 @@ Weekly:
 
 One time only:
  * In person meeting with instructor
- * 8 short assignments (including one group assignment)
- * Group presentation of group assignment, 3-5 students each
- * Submit Zotero file with semester's notes
+ * 6 assignments (including one group assignment)
+ * Group presentation 
+ * Mid-semester take home exam
  * Record a tutorial session
 
 ## Week-by-week
 
 <A HREF="#unit1">Unit 1: Introduction</A>
 
-<A HREF="#unit2">Unit 2: Data Sources & Their Manipulation</A>
+<A HREF="#unit2">Unit 2: Some Old Friends</A>
 
-<A HREF="#unit3">Unit 3: Structure Discovery</A>
+<A HREF="#unit3">Unit 3: Natural Language Processing</A>
 
-<A HREF="#unit4">Unit 4: Prediction</A>
+<A HREF="#unit4">Unit 4: Neural Networks</A>
+
+<A HREF="#unit5">Unit 5: Closing the Loop</A>
 
 # <A NAME="unit1:">Unit 1: Introduction
 
-## Class 1 - Introduction (9/7/16)
+## Class 1 - Introduction (1/19/17)
 ### Learning Objectives
 
-* Be familiar with course philosophy, logic & structure
-* Install and be familiar with the software to be used in the course
-* Appreciate the importance of tightly defining educational goals
+* Be familiar with course philosophy, logic, assessment & structure  
 
-## Class 2 - LA, EDM and the Learning Sciences (9/13/16)
+Read
+* [Malone, C. (2016, December 15). How Trump’s White House Could Mess With Government Data.](https://fivethirtyeight.com/features/how-trumps-white-house-could-mess-with-government-data/)
 
-### Learning Objectives
+# <A NAME="unit2">Unit 2: Some Old Friends
 
-* Be familiar with the kinds of work done in the fields of LA and EDM
-
-### Tasks to be completed:
-
-Read/watch and comment:
-  * [Siemens, G. and Baker, R.S.J. d. 2012. Learning Analytics and Educational Data Mining: Towards Communication and Collaboration. Proceedings of the 2nd International Conference on Learning Analytics and Knowledge (New York, NY, USA, 2012), 252–254.](http://users.wpi.edu/~rsbaker/LAKs%20reformatting%20v2.pdf)
-  * [Educause 2015. Why Is Measuring Learning So Difficult?](http://er.educause.edu/multimedia/2015/8/why-is-measuring-learning-so-difficult-v)
-
-Due: Assignment 1 - Set up
- 
-## Class 3 - Data Sources (9/15/16)
-
-* Be familiar with a range of data sources, formats and extraction processes
-* Be familiar with R & Github & markdown
-
-### Tasks to be completed:
-
- 1. Read/watch and comment:
- 
-* [The R Markdown Cheat sheet: 2014.](http://shiny.rstudio.com/articles/rm-cheatsheet.html) 
-
-# <A NAME="unit2">Unit 2: Data Sources & their Manipulation
-
-## Class 4 - Data Wrangling (9/20/16)
+## Class 2 - Advanced Prediction (1/26/17)
 
 ### Learning Objectives:
 
- * Understand the importance of workflow and recording workflow
+ * Understand in greater detail flavors of tree prediction
 
 ### Tasks to be completed:
 
-Read/comment:
+Read
 * [Leong, B. and Polonetsky, J. 2016. Passing the Privacy Test as Student Data Laws Take Effect. EdSurge.](https://www.edsurge.com/news/2016-01-12-passing-the-privacy-test-as-student-data-laws-take-effect?utm_content=bufferc0042&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 * [Greller, W., & Drachsler, H. (2012). Translating Learning into Numbers: A Generic Framework for Learning Analytics. Journal of Educational Technology & Society, 15(3), 42–57.](https://www.jstor.org/stable/jeductechsoci.15.3.42?seq=1#page_scan_tab_contents)
  

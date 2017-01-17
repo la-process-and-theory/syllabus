@@ -69,6 +69,8 @@ Read
 ### Learning Objectives:
 
  * Understand in greater detail flavors of tree prediction
+ 
+** Assignment 1
 
 ### Tasks to be completed:
 
@@ -85,6 +87,8 @@ Read
 
 Read:
 * [Bakharia, A., & Dawson, S. (2011). SNAPP: A Bird’S-eye View of Temporal Participant Interaction. In Proceedings of the 1st International Conference on Learning Analytics and Knowledge (pp. 168–173). Banff, Alberta, Canada:ACM.](https://doi.org/10.1145/2090116.2090144)
+
+** Assignment 2
 
 # <A NAME="unit3">Unit 3: Natural Language Processing
 
@@ -121,6 +125,8 @@ Read:
 Read:
 * [McNamara, D. S., Crossley, S. A., & Roscoe, R. (2013). Natural Language Processing in an Intelligent Writing Strategy Tutoring System. Behavior Research Methods, 45(2), 499–515.](http://link.springer.com.ezproxy.cul.columbia.edu/article/10.3758/s13428-012-0258-1)
 
+** Assignment 3
+
 # <A NAME="unit4">Unit 4: Neural Networks
 
 ## Class 7 - Neural Networks I (3/2/17)
@@ -136,9 +142,11 @@ Watch:
 * [Welch, S. (2014). Neural Networks Demystified Part 1: Data and Architecture. WelchLabs.](https://youtu.be/bxe2T-V8XRs)
 * [Welch, S. (2014). Neural Networks Demystified Part 2: Forward Propagation. WelchLabs.](https://youtu.be/UJwK6jAStmg)
 
-## Spring Break  
+## Class 8 - Mid-Term Exam + Assignment 4 (3/9/17)
 
-## Class 8 - Neural Networks II (3/23/17)
+## Spring Break 
+
+## Class 9 - Neural Networks II (3/23/17)
 
 ### Learning Objectives:
 
@@ -154,9 +162,11 @@ Watch:
 * [Welch, S. (2014). Neural Networks Demystified Part 4: Backpropagation. WelchLabs.](https://youtu.be/GlcnxUlrtek)  
 * [Welch, S. (2014). Neural Networks Demystified Part 5: Numerical Gradient Checking. WelchLabs.](https://youtu.be/pHMzNW8Agq4)
 
+**Assignment 5
+
 # <A NAME="unit5">Unit 5: Closing the Loop
 
-## Class 9 - Experimental Design (3/30/17)
+## Class 10 - Experimental Design (3/30/17)
 
 ### Learning Objectives:
 
@@ -168,7 +178,7 @@ Read:
 
 * [Tomkin, J. H., & Charlevoix, D. (2014). Do Professors Matter?: Using an A/B Test to Evaluate the Impact of Instructor Involvement on MOOC Student Outcomes. In Proceedings of the first ACM Learning@Scale Conference (pp. 71–78). Atlanta, GA: ACM.](http://dl.acm.org.ezproxy.cul.columbia.edu/citation.cfm?id=2566245)
 
-## Class 10 - Interactive Visualization I (4/6/17)
+## Class 11 - Interactive Visualization I (4/6/17)
 
 ### Learning Objectives:
 
@@ -179,7 +189,7 @@ Read:
 Read:
 * [Klerkx, J., Verbert, K., & Duval, E. (2017). Learning Analytics Dashboards. In The Handbook of Learning Analytics (1st ed.). Vancouver, BC, Canada.](www.solaresearch.org)
 
-## Class 11 - Interactive Visualization II (4/13/17)
+## Class 12 - Interactive Visualization II (4/13/17)
 
 ### Learning Objectives:
 
@@ -190,7 +200,7 @@ Read:
 Read
 * [Corrin, L., & de Barba, P. (2014). Exploring students’ interpretation of feedback delivered through learning analytics dashboards. In Proceedings of the Ascilite 2014 Conference.](https://www.researchgate.net/profile/Paula_De_Barba/publication/271769111_Exploring_students'_interpretation_of_feedback_delivered_through_learning_analytics_dashboards/links/54d14ed20cf25ba0f0411598.pdf)
 
-## Class 12 - Intervening (4/20/17)
+## Class 13 - Intervening (4/20/17)
 
 ### Learning Objectives:
 
@@ -201,13 +211,15 @@ Read
 Read:
 * [Lawson, C., Beer, C., Rossi, D., Moore, T., & Fleming, J. (2016). Identification of “At Risk” Students Using Learning Analytics: The Ethical Dilemmas of Intervention Strategies in a Higher Education Institution. Educational Technology Research and Development, 64(5), 957–968.](https://doi.org/10.1007/s11423-016-9459-0)
 
-## Class 13 - Synthesis (4/27/17)
+** Asignment 6
+
+## Class 14 - Synthesis (4/27/17)
 
 ### Learning Objectives:
 
  * Synthesize the year's learning
 
-## Class 14 - Presentations (5/4/17)
+## Class 15 - Presentations (5/4/17)
 
 ### Learning Objectives:
 

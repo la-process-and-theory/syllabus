@@ -1,4 +1,4 @@
-# Learning Analytics, Theory & Practice: Syllabus
+# Learning Analytics, Process & Theory: Syllabus
 
 * **Course:** [HUDK 4051, Teachers College, Columbia] (https://github.com/la-theory-and-practice)
 * **Instructor:** Charles Lang, [charles.lang@tc.columbia.edu](charles.lang@tc.columbia.edu), @learng00d, #TCLA16

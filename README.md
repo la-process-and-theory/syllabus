@@ -86,13 +86,18 @@ Read
 Read:
 * [Bakharia, A., & Dawson, S. (2011). SNAPP: A Bird’S-eye View of Temporal Participant Interaction. In Proceedings of the 1st International Conference on Learning Analytics and Knowledge (pp. 168–173). Banff, Alberta, Canada:ACM.](https://doi.org/10.1145/2090116.2090144)
 
-## Class 6 - Data Wrangling (9/27/16)
+# <A NAME="unit3">Unit 3: Natural Language Processing
+
+## Class 4 - Natural Language Processing I (2/9/17)
+
+### Learning Objectives:
+
+ * Understand the asic ideas behind natural language processing
 
 Read/Comment:
-* [Clow, D. 2014. Data wranglers: human interpreters to help close the feedback loop. Proceedings of the Fourth International Conference on Learning Analytics And Knowledge (2014), 49–53.](http://oro.open.ac.uk/40608/2/Clow-DataWranglers-final.pdf)
-* [Young, J.R. 2014. Why Students Should Own Their Educational Data. The Chronicle of Higher Education Blogs: Wired Campus.](http://chronicle.com/blogs/wiredcampus/why-students-should-own-their-educational-data/54329)
+* [Nadkarni, P. M., Ohno-Machado, L., & Chapman, W. W. (2011). Natural language processing: an introduction. Journal of the American Medical Informatics Association : JAMIA, 18(5), 544–551.](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3168328/)
 
-## Class 7 - Data Wrangling (9/29/16)
+## Class 5 - Natural Language Processing II (2/16/17)
 
 ### Learning Objectives:
 
@@ -102,9 +107,7 @@ Read/Comment:
 ### Tasks to be completed:
 
 Read:
-* [Data Wrangling Cheatsheet: 2015.](http://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
-
-# <A NAME="unit3">Unit 3: Structure Discovery
+* [Robinson, A. C. (2015). Exploring Class Discussions from a Massive Open Online Course (MOOC) on Cartography. In J. Brus, A. Vondrakova, & V. Vozenilek (Eds.), Modern Trends in Cartography (pp. 173–182). Springer International Publishing.](http://link.springer.com.ezproxy.cul.columbia.edu/chapter/10.1007/978-3-319-07926-4_14)
 
 ## Class 8 - Visualization (10/4/16)
 

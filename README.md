@@ -92,7 +92,8 @@ Read:
 
 ### Learning Objectives:
 
- * Understand the asic ideas behind natural language processing
+ * Understand the basic ideas behind natural language processing
+ * Be able to perform basic cleaning and processing of unstructured written data
 
 Read/Comment:
 * [Nadkarni, P. M., Ohno-Machado, L., & Chapman, W. W. (2011). Natural language processing: an introduction. Journal of the American Medical Informatics Association : JAMIA, 18(5), 544–551.](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3168328/)
@@ -101,15 +102,15 @@ Read/Comment:
 
 ### Learning Objectives:
 
- * Be able to perform a data tidying workflow
- * Be familiar with a range of data manipulation commands
+ * Be able to create basic visualizations of processed unstructured data
+ * Be able to generate basic metrics of unstructured data
 
 ### Tasks to be completed:
 
 Read:
 * [Robinson, A. C. (2015). Exploring Class Discussions from a Massive Open Online Course (MOOC) on Cartography. In J. Brus, A. Vondrakova, & V. Vozenilek (Eds.), Modern Trends in Cartography (pp. 173–182). Springer International Publishing.](http://link.springer.com.ezproxy.cul.columbia.edu/chapter/10.1007/978-3-319-07926-4_14)
 
-## Class 8 - Visualization (10/4/16)
+## Class 6 - Natural Language Processing III (2/23/17)
 
 ### Learning Objectives:
 
@@ -119,7 +120,7 @@ Read:
 ### Tasks to be completed:
 
 Read:
-* [Kay, J., Maisonneuve, N., Yacef, K., & Reimann, P. (2006). The Big Five and Visualisations of Team Work Activity. In M. Ikeda, K. D. Ashley, & T.-W. Chan (Eds.), Intelligent Tutoring Systems (pp. 197–206). Springer Berlin Heidelberg.](https://link.springer.com/chapter/10.1007/11774303_20)
+* [McNamara, D. S., Crossley, S. A., & Roscoe, R. (2013). Natural language processing in an intelligent writing strategy tutoring system. Behavior Research Methods, 45(2), 499–515.](http://link.springer.com.ezproxy.cul.columbia.edu/article/10.3758/s13428-012-0258-1)
 
 ## Class 9 - Visualization (10/6/16)
 

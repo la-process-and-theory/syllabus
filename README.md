@@ -121,14 +121,16 @@ Read:
 Read:
 * [McNamara, D. S., Crossley, S. A., & Roscoe, R. (2013). Natural language processing in an intelligent writing strategy tutoring system. Behavior Research Methods, 45(2), 499–515.](http://link.springer.com.ezproxy.cul.columbia.edu/article/10.3758/s13428-012-0258-1)
 
-## Class 9 - Visualization (10/6/16)
+# <A NAME="unit3">Unit 4: Neural Networks
+
+## Class 7 - Neural Networks (3/2/17)
 
 ### Learning Objectives:
 
- * Be able to generate basic visualizations during on-the-fly analysis
+ * Understand the basic of neural networks
 
-Watch:
-* Chapter 6 in Baker, R. (2014). Big Data in Education: [video 1](https://youtu.be/Mr17Z0nZUQc), [video 3](https://youtu.be/oTiixxmh9-Q), [video 4](https://youtu.be/WI1AVcpCYgk)
+Read:
+* [Stergiou, C., & Siganos, D. (2000). Neural Networks. Retrieved January 13, 2017](http://www.doc.ic.ac.uk/~nd/surprise_96/journal/vol4/cs11/report.html)
 
 ## Class 10 - Networks (10/11/16)
 

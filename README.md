@@ -70,12 +70,12 @@ Read
 
  * Understand in greater detail flavors of tree prediction
  
-** Assignment 1
-
 ### Tasks to be completed:
 
 Read
 * [Adhatrao, K., Gaykar, A., Dhawan, A., Jha, R., & Honrao, V. (2013). Predicting Students’ Performance using ID3 and C4. 5 Classification Algorithms. International Journal of Data Mining & Knowledge Management Proces, 3(5).](https://arxiv.org/ftp/arxiv/papers/1310/1310.2071.pdf)
+
+### Assignment 1
  
 ## Class 3 - Advanced Social Network Analysis (2/2/17)
 
@@ -88,7 +88,7 @@ Read
 Read:
 * [Bakharia, A., & Dawson, S. (2011). SNAPP: A Bird’S-eye View of Temporal Participant Interaction. In Proceedings of the 1st International Conference on Learning Analytics and Knowledge (pp. 168–173). Banff, Alberta, Canada:ACM.](https://doi.org/10.1145/2090116.2090144)
 
-** Assignment 2
+### Assignment 2
 
 # <A NAME="unit3">Unit 3: Natural Language Processing
 
@@ -125,7 +125,7 @@ Read:
 Read:
 * [McNamara, D. S., Crossley, S. A., & Roscoe, R. (2013). Natural Language Processing in an Intelligent Writing Strategy Tutoring System. Behavior Research Methods, 45(2), 499–515.](http://link.springer.com.ezproxy.cul.columbia.edu/article/10.3758/s13428-012-0258-1)
 
-** Assignment 3
+### Assignment 3
 
 # <A NAME="unit4">Unit 4: Neural Networks
 
@@ -162,7 +162,7 @@ Watch:
 * [Welch, S. (2014). Neural Networks Demystified Part 4: Backpropagation. WelchLabs.](https://youtu.be/GlcnxUlrtek)  
 * [Welch, S. (2014). Neural Networks Demystified Part 5: Numerical Gradient Checking. WelchLabs.](https://youtu.be/pHMzNW8Agq4)
 
-**Assignment 5
+### Assignment 5
 
 # <A NAME="unit5">Unit 5: Closing the Loop
 
@@ -211,7 +211,7 @@ Read
 Read:
 * [Lawson, C., Beer, C., Rossi, D., Moore, T., & Fleming, J. (2016). Identification of “At Risk” Students Using Learning Analytics: The Ethical Dilemmas of Intervention Strategies in a Higher Education Institution. Educational Technology Research and Development, 64(5), 957–968.](https://doi.org/10.1007/s11423-016-9459-0)
 
-** Asignment 6
+### Asignment 6
 
 ## Class 14 - Synthesis (4/27/17)
 

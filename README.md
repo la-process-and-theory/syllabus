@@ -183,183 +183,35 @@ Read:
 
 ### Learning Objectives:
 
- * Create a suitable data structure and perform clustering on a sample
+ * Be able to link a Shiny App to Plotly
 
 ### Tasks to be completed:
 
-Watch:
-* Chapter 7 in Baker, R. (2014). Big Data in Education: [video 1](https://youtu.be/mgXm3AwLxP8), [video 2](https://youtu.be/B9dvJYwBfmk)
+Read
+* [Corrin, L., & de Barba, P. (2014). Exploring students’ interpretation of feedback delivered through learning analytics dashboards. In Proceedings of the Ascilite 2014 Conference.](https://www.researchgate.net/profile/Paula_De_Barba/publication/271769111_Exploring_students'_interpretation_of_feedback_delivered_through_learning_analytics_dashboards/links/54d14ed20cf25ba0f0411598.pdf)
 
-Due: Assignment 3 - Clustering
-
-## Class 14 - Principal Component Analysis (10/25/16)
+## Class 12 - Intervening (4/20/17)
 
 ### Learning Objectives:
 
- * Be familiar with the basic ideas behind dimension reduction and the reasons for needing it
- * Understand the basic principles behind Principal Component Analysis
-
-### Tasks to be completed:
-
-Read/Comment:
-* [Konstan, J. A., Walker, J. D., Brooks, D. C., Brown, K., & Ekstrand, M. D. (2015). Teaching Recommender Systems at Large Scale: Evaluation and Lessons Learned from a Hybrid MOOC. ACM Trans. Comput.-Hum. Interact., 22(2), 10:1–10:23.](https://dl.acm.org/citation.cfm?id=2728171)
-
-## Class 15 - Principal Component Analysis (10/27/16)
-
-### Learning Objectives:
-
- * Perform principal component analysis 
-
-### Tasks to be completed:
-
-Watch:
-* [Georgia Tech 2015. Feature Selection. Youtube.](https://www.youtube.com/watch?v=8CpRLplmdqE)
-
-Due: Assignment 4 - Principal Component Analysis
-
-## Class 16 - Domain Structure Discovery (11/1/16)
-
-### Learning Objectives:
-
- * Be familiar with the range of strategies for mapping domains and skills
-
-### Tasks to be completed:
-
-Read/Comment:
-* [Matsuda, N., Furukawa, T., Bier, N., & Faloutsos, C. (2015). Machine Beats Experts: Automatic Discovery of Skill Models for Data-Driven Online Course Refinement. International Educational Data Mining Society.](http://eric.ed.gov/?id=ED560513) 
-
-## Class 17 - Domain Structure Discovery (11/3/16)
-
-### Learning Objectives:
-
- * Be familiar with the Q-matrix method
-
-### Tasks to be completed:
-
-Watch:
-* Chapter 7 in Baker, R. (2014). Big Data in Education:[video 6](https://youtu.be/oFSV6-opnws)
- 
-
-
-
-## Class 18 - Prediction (11/8/16)
-
-### Learning Objectives:
-
- * Understand why prediction is desireable goal, the various meanings of the word and general strategies employed across statistics, machine learning and experimental psychology
-
-### Tasks to be completed:
-
-Read/Comment:
-* [Kucirkova, N. and FitzGerald, E. 2015. Zuckerberg is Ploughing Billions into “Personalised Learning” – Why? The Conversation.](https://theconversation.com/zuckerberg-is-ploughing-billions-into-personalised-learning-why-51940)
-* [San Pedro, M.O.Z., Baker, R.S.J.d., Bowers, A.J., Heffernan, N.T. (2013) Predicting College Enrollment from Student Interaction with a Intelligent Tutoring System in Middle School. Proceedings of the 6th International Conference on Educational Data Mining, 177-184.](http://www.columbia.edu/~rsb2162/EDM2013_SBBH.pdf)
-
-## Class 19 - Prediction (11/10/16)
-
-### Learning Objectives:
-
- * Employ a linear prediction model 
-
-### Tasks to be completed:
-
-Watch:
-* Chapter 1 in Baker, R. (2014). Big Data in Education: [video 1](https://youtu.be/dc5Nx3tyR8g)
-
-Due: Assignment 5 - Prediction
-
-## Class 20 - Classification (11/15/16)
-
-### Learning Objectives:
-
- * Understand the concept of classification and its relationship to modeling
-
-### Tasks to be completed:
-
-Read/Comment:
-
-* [Cortez, P., & Silva, A. M. G. (2008). Using data mining to predict secondary school student performance. In Proceedings of 5th Annual Future Business Technology Conference. Porto, Spain: EUROSIS.](http://hdl.handle.net/1822/8024)
-* [Baker, R.S.J.d., Corbett, A.T., Roll, I., Koedinger, K.R. (2008) Developing a Generalizable Detector of When Students Game the System. User Modeling and User-Adapted Interaction, 18, 3, 287-314.](https://link.springer.com/article/10.1007/s11257-007-9045-6)
-
-## Class 21 - Classification (11/17/16)
-
-### Learning Objectives:
-
- * Implement a CART model
-
-### Tasks to be completed:
-
-Watch:
-* Chapter 1 in Baker, R. (2014). Big Data in Education: [video 3](https://youtu.be/k9Z4ibzH-1s) & [video 4](https://youtu.be/8X0UlMShss4)
-
-## Class 22 - Data Jam (11/22/16)
-
-### Learning Objectives:
-
- * Practice of methods learned so far using real world data
-
-### Tasks to be completed:
-
-* Analysis of data ad generation of model
-
-Due: Assignment 6 - CART Models
-
-## Class 23 - New Classrooms Site Visit (11/29/16)
-
-
-
-
-
-## Class 24 - Diagnostic Metrics (12/1/16)
-
-### Learning Objectives:
-
- * Understand and apply the following diagnostic metrics to models: Kappa, A', correlation, RMSE, ROC
+ * Be able to autogenerate a student email in response to data
 
 ### Tasks to be completed:
 
 Read:
-* [Zheng, A. 2015. Evaluating Machine Learning Models. O’Reily Media. Chapter 2: Evaluation Metrics p.7-18](http://www.oreilly.com/data/free/evaluating-machine-learning-models.csp?intcmp=il-data-free-lp-lgen_free_reports_page)
+* [Lawson, C., Beer, C., Rossi, D., Moore, T., & Fleming, J. (2016). Identification of “at risk” students using learning analytics: the ethical dilemmas of intervention strategies in a higher education institution. Educational Technology Research and Development, 64(5), 957–968.](https://doi.org/10.1007/s11423-016-9459-0)
 
-Watch:
-* Chapter 2 in Baker, R. (2014). Big Data in Education: [video 2](https://youtu.be/fGMFYTHhcHg), [video 3](https://youtu.be/9PDwRdyb6Sw) and [video 4](https://youtu.be/7r3hfJW1gz0)
-* Chapter 2 in Baker, R. (2014). Big Data in Education: [video 5](https://youtu.be/1P34cxpEdKA)
-* [Georgia Tech 2015. Cross Validation. Youtube.](https://youtu.be/sFO2ff-gTh0)
-
-## Class 25 - Knowledge Tracing (12/6/16)
+## Class 13 - Synthesis (4/27/17)
 
 ### Learning Objectives:
 
- * Understand the concepts behind Bayesian Knowledge Tracing 
+ * Synthesize the year's learning
 
-### Tasks to be completed:
-
-Read:
-[Corbett, A.T., Anderson, J.R. (1995) Knowledge Tracing: Modeling the Acquisition of Procedural Knowledge. User Modeling and User-Adapted Interaction, 4, 253-278.](https://link.springer.com/article/10.1007/BF01099821)
-
-## Class 26 - Knowledge Tracing (12/8/16)
+## Class 14 - Presentations (5/4/17)
 
 ### Learning Objectives:
 
- * Understand Bayesian Knowledge Tracing 
-
-### Tasks to be completed:
-
-Watch:
-* Chapter 4 in Baker, R. (2014). Big Data in Education: [video 1](https://youtu.be/_7CtthPZJ70)
-
-Due: Assignment 7 - Diagnostic Metrics
-
-## Class 27 - Work Session: Assignment 8, Group Project (12/13/16)
-
-## Class 28 - Work Session: Assignment 8, Group Project (12/15/16)
-
-Due: Assignment 8 - Quantified Student
-
-## Class 28 - Rate video presentations (12/20/16)
-
-## Class 28 - Rate video presentations (12/22/16)
-
-
+ * In class presentations for Assignment 6
 
 ## Fine Print
 

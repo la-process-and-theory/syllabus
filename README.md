@@ -135,9 +135,10 @@ Read:
 Watch:
 * [Welch, S. (2014). Neural Networks Demystified Part 1: Data and Architecture. WelchLabs.](https://youtu.be/bxe2T-V8XRs)
 * [Welch, S. (2014). Neural Networks Demystified Part 2: Forward Propagation. WelchLabs.](https://youtu.be/UJwK6jAStmg)
-* [Welch, S. (2014). Neural Networks Demystified Part 3: Gradient Descent. WelchLabs.](https://youtu.be/5u0jaA3qAGk)
 
-## Class 8 - Neural Networks II (3/9/17)
+## Spring Break  
+
+## Class 8 - Neural Networks II (3/23/17)
 
 ### Learning Objectives:
 
@@ -145,8 +146,14 @@ Watch:
 
 ### Tasks to be completed:
 
-Read/Comment:
-* [Grunspan, D. Z., Wiggins, B. L., & Goodreau, S. M. (2014). Understanding Classrooms through Social Network Analysis: A Primer for Social Network Analysis in Education Research. CBE-Life Sciences Education, 13(2), 167–178.](http://www.lifescied.org/content/13/2/167.full.pdf)
+Read:  
+* [Tang, S., Peterson, J. C., & Pardos, Z. A. (2016). Deep Neural Networks and How They Apply to Sequential Education Data. In Proceedings of the Third (2016) ACM Conference on Learning @ Scale (pp. 321–324). Edinburgh, Scotland, UK: ACM.](https://doi.org/10.1145/2876034.2893444)
+
+Watch:
+* [Welch, S. (2014). Neural Networks Demystified Part 3: Gradient Descent. WelchLabs.](https://youtu.be/5u0jaA3qAGk)
+* [Welch, S. (2014). Neural Networks Demystified Part 4: Backpropagation. WelchLabs.](https://youtu.be/GlcnxUlrtek)  
+* [Welch, S. (2014). Neural Networks Demystified Part 5: Numerical Gradient Checking. WelchLabs.](https://youtu.be/pHMzNW8Agq4)
+
 
 ## Class 11 - Networks (10/13/16)
 

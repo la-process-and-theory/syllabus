@@ -130,7 +130,9 @@ Read:
  * Understand the basics of neural networks
 
 Read:
-* [Stergiou, C., & Siganos, D. (2000). Neural Networks.](http://www.doc.ic.ac.uk/~nd/surprise_96/journal/vol4/cs11/report.html)  Watch:
+* [Stergiou, C., & Siganos, D. (2000). Neural Networks.](http://www.doc.ic.ac.uk/~nd/surprise_96/journal/vol4/cs11/report.html)  
+
+Watch:
 * [Welch, S. (2014). Neural Networks Demystified Part 1: Data and Architecture. WelchLabs.](https://youtu.be/bxe2T-V8XRs)
 * [Welch, S. (2014). Neural Networks Demystified Part 2: Forward Propagation. WelchLabs.](https://youtu.be/UJwK6jAStmg)
 * [Welch, S. (2014). Neural Networks Demystified Part 3: Gradient Descent. WelchLabs.](https://youtu.be/5u0jaA3qAGk)

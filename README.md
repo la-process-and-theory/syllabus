@@ -199,7 +199,7 @@ Read
 ### Tasks to be completed:
 
 Read:
-* [Lawson, C., Beer, C., Rossi, D., Moore, T., & Fleming, J. (2016). Identification of “at risk” students using learning analytics: the ethical dilemmas of intervention strategies in a higher education institution. Educational Technology Research and Development, 64(5), 957–968.](https://doi.org/10.1007/s11423-016-9459-0)
+* [Lawson, C., Beer, C., Rossi, D., Moore, T., & Fleming, J. (2016). Identification of “At Risk” Students Using Learning Analytics: The Ethical Dilemmas of Intervention Strategies in a Higher Education Institution. Educational Technology Research and Development, 64(5), 957–968.](https://doi.org/10.1007/s11423-016-9459-0)
 
 ## Class 13 - Synthesis (4/27/17)
 

@@ -114,8 +114,7 @@ Read:
 
 ### Learning Objectives:
 
- * Understand the place of data visualization in the data analysis cycle
- * Be familiar with a range of data simulation commands
+ * Understand ways that NLP can be used to intervene in educational processes
 
 ### Tasks to be completed:
 

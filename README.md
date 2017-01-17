@@ -4,7 +4,7 @@
 * **Instructor:** Charles Lang, [charles.lang@tc.columbia.edu](charles.lang@tc.columbia.edu), @learng00d, #TCLA16
 * **Day/Time:** Thursdays, 2:00pm - 3:40pm  
 * **Location:** GDH 461
-* **Instructor Office Hours:** Tuesdays & Thursdays, 3:40pm - 5:40pm or [by appointment](https://calendar.google.com/calendar/selfsched?sstoken=UUNxY1RIY01kNmJZfGRlZmF1bHR8M2U5ODgxZmNiOWQ0NDc2N2VmNWQ0NThiM2JmMGRmZmQ) in GDH 540
+* **Instructor Office Hours:** Tuesdays & Thursdays, 3:40pm - 5:00pm or [by appointment](https://calendar.google.com/calendar/selfsched?sstoken=UUNxY1RIY01kNmJZfGRlZmF1bHR8M2U5ODgxZmNiOWQ0NDc2N2VmNWQ0NThiM2JmMGRmZmQ) in GDH 540
 *  **Prerequisite:** HUDK 4050 *or* approved statistics/computer science data mining course.
 *  **Credits:** 3
 *  **Required Technology:** Laptop with RStudio installed

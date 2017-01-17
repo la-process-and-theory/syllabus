@@ -1,0 +1,949 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#">
+    <bib:Article rdf:about="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3168328/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1067-5027"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nadkarni</foaf:surname>
+                        <foaf:givenname>Prakash M</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ohno-Machado</foaf:surname>
+                        <foaf:givenname>Lucila</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chapman</foaf:surname>
+                        <foaf:givenname>Wendy W</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3843"/>
+        <link:link rdf:resource="#item_3841"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3168328/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>544-551</bib:pages>
+        <dc:date>2011</dc:date>
+        <dc:description>PMID: 21846786
+PMCID: PMC3168328</dc:description>
+        <dcterms:dateSubmitted>2016-01-19 16:19:41</dcterms:dateSubmitted>
+        <z:libraryCatalog>PubMed Central</z:libraryCatalog>
+        <dcterms:abstract>Objectives
+To provide an overview and tutorial of natural language processing (NLP) and modern NLP-system design.
+
+Target audience
+This tutorial targets the medical informatics generalist who has limited acquaintance with the principles behind NLP and/or limited knowledge of the current state of the art.
+
+Scope
+We describe the historical evolution of NLP, and summarize common NLP sub-problems in this extensive field. We then provide a synopsis of selected highlights of medical NLP efforts. After providing a brief description of common machine-learning approaches that are being used for diverse NLP sub-problems, we discuss how modern NLP architectures are designed, with a summary of the Apache Foundation's Unstructured Information Management Architecture. We finally consider possible future directions for NLP, and reflect on the possible impact of IBM Watson on the medical field.</dcterms:abstract>
+        <dc:title>Natural language processing: an introduction</dc:title>
+        <z:shortTitle>Natural language processing</z:shortTitle>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1067-5027">
+        <prism:volume>18</prism:volume>
+        <prism:number>5</prism:number>
+        <dc:title>Journal of the American Medical Informatics Association : JAMIA</dc:title>
+        <dc:identifier>ISSN 1067-5027</dc:identifier>
+        <dcterms:alternative>J Am Med Inform Assoc</dcterms:alternative>
+        <dc:identifier>DOI 10.1136/amiajnl-2011-000464</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_3843">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="/Users/cwmlang_old/Documents/References/Nadkarni et al_2011_Natural language processing.pdf"/>
+        <dc:title>Nadkarni et al_2011_Natural language processing.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_3841">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3168328/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2016-01-19 16:19:41</dcterms:dateSubmitted>
+        <dc:title>PubMed Central Link</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:978-1-4503-0944-8">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                   <bib:Series><dc:title>LAK '11</dc:title></bib:Series>
+                </dcterms:isPartOf>
+                <dc:identifier>ISBN 978-1-4503-0944-8</dc:identifier>
+                <dc:identifier>DOI 10.1145/2090116.2090144</dc:identifier>
+                <dc:title>Proceedings of the 1st International Conference on Learning Analytics and Knowledge</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Banff, Alberta, Canada</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>ACM</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bakharia</foaf:surname>
+                        <foaf:givenname>Aneesha</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dawson</foaf:surname>
+                        <foaf:givenname>Shane</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>analytics</dc:subject>
+        <dc:subject>computer supported collaborative learning</dc:subject>
+        <dc:subject>discussion forum</dc:subject>
+        <dc:subject>evaluation</dc:subject>
+        <dc:subject>graph theory</dc:subject>
+        <dc:subject>inferring social networks</dc:subject>
+        <dc:subject>learning analytics</dc:subject>
+        <dc:subject>learning management system</dc:subject>
+        <dc:subject>network learning</dc:subject>
+        <dc:subject>social network analysis</dc:subject>
+        <dc:subject>visualisation</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://doi.acm.org/10.1145/2090116.2090144</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>168-173</bib:pages>
+        <dc:date>2011</dc:date>
+        <dc:description>bibtex: Bakharia:2011:SBV:2090116.2090144 
+bibtex[numpages=6;acmid=2090144]</dc:description>
+        <dc:title>SNAPP: A Bird's-eye View of Temporal Participant Interaction</dc:title>
+    </rdf:Description>
+    <bib:BookSection rdf:about="urn:isbn:978-3-319-07925-7%20978-3-319-07926-4">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dcterms:isPartOf>
+                    <bib:Series>
+                        <dc:title>Lecture Notes in Geoinformation and Cartography</dc:title>
+                    </bib:Series>
+                </dcterms:isPartOf>
+                <dc:identifier>ISBN 978-3-319-07925-7 978-3-319-07926-4</dc:identifier>
+                <dc:title>Modern Trends in Cartography</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Springer International Publishing</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Robinson</foaf:surname>
+                        <foaf:givenname>Anthony C.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brus</foaf:surname>
+                        <foaf:givenname>Jan</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vondrakova</foaf:surname>
+                        <foaf:givenname>Alena</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vozenilek</foaf:surname>
+                        <foaf:givenname>Vit</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <link:link rdf:resource="#item_4556"/>
+        <link:link rdf:resource="#item_4555"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Cartography</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Geographical Information Systems/Cartography</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>MOOC</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Text Analysis</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Topic Modeling</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://link.springer.com/chapter/10.1007/978-3-319-07926-4_14</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>©2015 Springer International Publishing Switzerland</dc:rights>
+        <bib:pages>173-182</bib:pages>
+        <dc:date>2015</dc:date>
+        <dc:description>DOI: 10.1007/978-3-319-07926-4_14</dc:description>
+        <dcterms:dateSubmitted>2017-01-13 14:30:20</dcterms:dateSubmitted>
+        <z:libraryCatalog>link.springer.com.ezproxy.cul.columbia.edu</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>The rise of the Massive Open Online Course (MOOC) has led to its application in Cartographic education. Students in these classes generate enormous amounts of text data in the form of discussion forum posts. Here we explore the topics and geographic references found in over 95,000 forum posts collected during the 2013 launch of Maps and the Geospatial Revolution, a MOOC taught on Coursera. Using Phrase Nets, topic modeling methods, and a named-entity extraction geocoding tool, we show how students describe their use of maps, what key topics drove conversations during the class, and the geography associated with placenames mentioned in posts. These results help shed light on how novices use and understand Cartography and show how places found in discussion forum text reflect the global reach of MOOCs.</dcterms:abstract>
+        <dc:title>Exploring Class Discussions from a Massive Open Online Course (MOOC) on Cartography</dc:title>
+    </bib:BookSection>
+    <z:Attachment rdf:about="#item_4556">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="/Users/cwmlang_old/Documents/References/Robinson_2015_Exploring Class Discussions from a Massive Open Online Course (MOOC) on.pdf"/>
+        <dc:title>Robinson_2015_Exploring Class Discussions from a Massive Open Online Course (MOOC) on.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_4555">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="storage:978-3-319-07926-4_14.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://link.springer.com.ezproxy.cul.columbia.edu/chapter/10.1007/978-3-319-07926-4_14</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2017-01-13 14:30:20</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://link.springer.com/article/10.3758/s13428-012-0258-1">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1554-3528"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>McNamara</foaf:surname>
+                        <foaf:givenname>Danielle S.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Crossley</foaf:surname>
+                        <foaf:givenname>Scott A.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Roscoe</foaf:surname>
+                        <foaf:givenname>Rod</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4559"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://link.springer.com/article/10.3758/s13428-012-0258-1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>499-515</bib:pages>
+        <dc:date>2013/06/01</dc:date>
+        <dcterms:dateSubmitted>2017-01-13 14:32:57</dcterms:dateSubmitted>
+        <z:libraryCatalog>link.springer.com.ezproxy.cul.columbia.edu</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>The Writing Pal is an intelligent tutoring system that provides writing strategy training. A large part of its artificial intelligence resides in the natural language processing algorithms to assess essay quality and guide feedback to students. Because writing is often highly nuanced and subjective, the development of these algorithms must consider a broad array of linguistic, rhetorical, and contextual features. This study assesses the potential for computational indices to predict human ratings of essay quality. Past studies have demonstrated that linguistic indices related to lexical diversity, word frequency, and syntactic complexity are significant predictors of human judgments of essay quality but that indices of cohesion are not. The present study extends prior work by including a larger data sample and an expanded set of indices to assess new lexical, syntactic, cohesion, rhetorical, and reading ease indices. Three models were assessed. The model reported by McNamara, Crossley, and McCarthy (Written Communication 27:57-86, 2010) including three indices of lexical diversity, word frequency, and syntactic complexity accounted for only 6 % of the variance in the larger data set. A regression model including the full set of indices examined in prior studies of writing predicted 38 % of the variance in human scores of essay quality with 91 % adjacent accuracy (i.e., within 1 point). A regression model that also included new indices related to rhetoric and cohesion predicted 44 % of the variance with 94 % adjacent accuracy. The new indices increased accuracy but, more importantly, afford the means to provide more meaningful feedback in the context of a writing tutoring system.</dcterms:abstract>
+        <dc:title>Natural language processing in an intelligent writing strategy tutoring system</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1554-3528">
+        <prism:volume>45</prism:volume>
+        <prism:number>2</prism:number>
+        <dc:title>Behavior Research Methods</dc:title>
+        <dc:identifier>ISSN 1554-3528</dc:identifier>
+        <dcterms:alternative>Behav Res</dcterms:alternative>
+        <dc:identifier>DOI 10.3758/s13428-012-0258-1</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_4559">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="storage:s13428-012-0258-1.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://link.springer.com.ezproxy.cul.columbia.edu/article/10.3758/s13428-012-0258-1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2017-01-13 14:32:57</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:ConferenceProceedings rdf:about="http://www.slideshare.net/vitomirkovanovic/topic-modeling-for-learning-analytics-researchers-lak15-tutorial">
+        <z:itemType>presentation</z:itemType>
+        <z:presenters>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Vitomir Kovanovic</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:presenters>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.slideshare.net/vitomirkovanovic/topic-modeling-for-learning-analytics-researchers-lak15-tutorial</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>22:33:52 UTC</dc:date>
+        <dcterms:dateSubmitted>2017-01-13 14:42:34</dcterms:dateSubmitted>
+        <z:type>Education</z:type>
+        <dcterms:abstract>Slides from the introductory tutorial to topic modeling with R and LSA, pLSA</dcterms:abstract>
+        <dc:title>Topic Modeling for Learning Analytics Researchers LAK15 Tutorial</dc:title>
+    </bib:ConferenceProceedings>
+    <bib:Document rdf:about="http://www.doc.ic.ac.uk/~nd/surprise_96/journal/vol4/cs11/report.html">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Imperial College London</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stergiou</foaf:surname>
+                        <foaf:givenname>C</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Siganos</foaf:surname>
+                        <foaf:givenname>D</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4564"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.doc.ic.ac.uk/~nd/surprise_96/journal/vol4/cs11/report.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2000</dc:date>
+        <dcterms:dateSubmitted>2017-01-13 14:50:53</dcterms:dateSubmitted>
+        <dc:title>Neural Networks</dc:title>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_4564">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="storage:report.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.doc.ic.ac.uk/~nd/surprise_96/journal/vol4/cs11/report.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2017-01-13 14:50:54</dcterms:dateSubmitted>
+        <dc:title>Neural Networks</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:978-1-4503-3726-7">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                   <bib:Series><dc:title>L@S '16</dc:title></bib:Series>
+                </dcterms:isPartOf>
+                <dc:identifier>ISBN 978-1-4503-3726-7</dc:identifier>
+                <dc:identifier>DOI 10.1145/2876034.2893444</dc:identifier>
+                <dc:title>Proceedings of the Third (2016) ACM Conference on Learning @ Scale</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Edinburgh, Scotland, UK</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>ACM</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tang</foaf:surname>
+                        <foaf:givenname>Steven</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Peterson</foaf:surname>
+                        <foaf:givenname>Joshua C.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pardos</foaf:surname>
+                        <foaf:givenname>Zachary A.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>deep learning</dc:subject>
+        <dc:subject>educational data mining</dc:subject>
+        <dc:subject>long short-term memory</dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://doi.acm.org/10.1145/2876034.2893444</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>321-324</bib:pages>
+        <dc:date>2016</dc:date>
+        <dc:description>bibtex: Tang:2016:DNN:2876034.2893444 
+bibtex[numpages=4;acmid=2893444]</dc:description>
+        <dc:title>Deep Neural Networks and How They Apply to Sequential Education Data</dc:title>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.researchgate.net/profile/Paula_De_Barba/publication/271769111_Exploring_students'_interpretation_of_feedback_delivered_through_learning_analytics_dashboards/links/54d14ed20cf25ba0f0411598.pdf">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:title>Proceedings of the Ascilite 2014 conference</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Dunedin, New Zealand</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Corrin</foaf:surname>
+                        <foaf:givenname>Linda</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>de Barba</foaf:surname>
+                        <foaf:givenname>Paula</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4567"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/profile/Paula_De_Barba/publication/271769111_Exploring_students'_interpretation_of_feedback_delivered_through_learning_analytics_dashboards/links/54d14ed20cf25ba0f0411598.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2014</dc:date>
+        <dc:description>bibtex: corrin2014exploring</dc:description>
+        <bib:presentedAt>
+           <bib:Conference><dc:title>Ascilite</dc:title></bib:Conference>
+        </bib:presentedAt>
+        <dcterms:abstract>The delivery of feedback to students through learning analytics dashboards is becoming more common in higher education. However, it is not clear what ability students have to interpret this feedback in ways that will benefit their learning. This paper presents the preliminary results of a mixed methods study into students’ interpretation of feedback delivered through learning analytics dashboards and the influence this feedback has on students’ self-regulated learning. The findings from a 
+preliminary analysis of the data from the first two phases will be discussed and the future phases of the research outlined. The outcomes of this research provide new insights into how dashboards can be designed to provide effective feedback in blended learning environments.</dcterms:abstract>
+        <dc:title>Exploring students’ interpretation of feedback delivered through learning analytics dashboards</dc:title>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_4567">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="/Users/cwmlang_old/Documents/References/Corrin_de Barba_2014_Exploring studentsâ interpretation of feedback delivered through learning.pdf"/>
+        <dc:title>Corrin_de Barba_2014_Exploring students’ interpretation of feedback delivered through learning.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://link.springer.com/article/10.1007/s11423-016-9459-0">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1042-1629,%201556-6501"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lawson</foaf:surname>
+                        <foaf:givenname>Celeste</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Beer</foaf:surname>
+                        <foaf:givenname>Colin</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rossi</foaf:surname>
+                        <foaf:givenname>Dolene</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Moore</foaf:surname>
+                        <foaf:givenname>Teresa</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fleming</foaf:surname>
+                        <foaf:givenname>Julie</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4570"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://link.springer.com/article/10.1007/s11423-016-9459-0</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>957-968</bib:pages>
+        <dc:date>2016/10/01</dc:date>
+        <dcterms:dateSubmitted>2017-01-13 15:11:33</dcterms:dateSubmitted>
+        <z:libraryCatalog>link.springer.com.ezproxy.cul.columbia.edu</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>Learning analytics is an emerging field in which sophisticated analytic tools are used to inform and improve learning and teaching. Researchers within a regional university in Australia identified an association between interaction and student success in online courses and subsequently developed a learning analytics system aimed at informing learning and teaching practices. Contemporary literature draws attention to ethical considerations and moral tensions in the implementation of learning analytics. This paper presents a case study of the ethical implications of a learning analytics implementation at CQUniversity, a regional Australian university. There was an institutional assumption that student data, consensually gathered at enrollment could be analyzed beyond the scope of the original consent. Further, academics were using the data in a manner not intended by the designers of the learning analytic system, and academics interpreted the student’s individualized data to label students based on their estimate of success. The learning analytics system is still being used and the ethical findings from this paper have implications for CQUniversity, academics and students. In order to resolve the ethical dilemmas the university could increase transparency of the process to students and obtain consent at multiple levels throughout the student journey.</dcterms:abstract>
+        <dc:title>Identification of ‘at risk’ students using learning analytics: the ethical dilemmas of intervention strategies in a higher education institution</dc:title>
+        <z:shortTitle>Identification of ‘at risk’ students using learning analytics</z:shortTitle>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1042-1629,%201556-6501">
+        <prism:volume>64</prism:volume>
+        <prism:number>5</prism:number>
+        <dc:title>Educational Technology Research and Development</dc:title>
+        <dc:identifier>ISSN 1042-1629, 1556-6501</dc:identifier>
+        <dcterms:alternative>Education Tech Research Dev</dcterms:alternative>
+        <dc:identifier>DOI 10.1007/s11423-016-9459-0</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_4570">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="storage:s11423-016-9459-0.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://link.springer.com.ezproxy.cul.columbia.edu/article/10.1007/s11423-016-9459-0</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2017-01-13 15:11:33</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://fivethirtyeight.com/features/how-trumps-white-house-could-mess-with-government-data/">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>FiveThirtyEight</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Malone</foaf:surname>
+                        <foaf:givenname>Clare</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4572"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://fivethirtyeight.com/features/how-trumps-white-house-could-mess-with-government-data/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2016-12-15T11:29:10+00:00</dc:date>
+        <dcterms:dateSubmitted>2017-01-15 00:12:14</dcterms:dateSubmitted>
+        <dcterms:abstract>Numbers and data are a backbone of modern life. We cite them buzzily at bars and soberly to bosses so often that “studies show” might as well be given its own entry in the dictionary. Much of what …</dcterms:abstract>
+        <dc:title>How Trump’s White House Could Mess With Government Data</dc:title>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_4572">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="storage:how-trumps-white-house-could-mess-with-government-data.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://fivethirtyeight.com/features/how-trumps-white-house-could-mess-with-government-data/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2017-01-15 00:12:14</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_4574">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>3</prism:volume>
+                <prism:number>5</prism:number>
+                <dc:title>International Journal of Data Mining &amp; Knowledge Management Proces</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Adhatrao</foaf:surname>
+                        <foaf:givenname>Kalpesh</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gaykar</foaf:surname>
+                        <foaf:givenname>Aditya</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dhawan</foaf:surname>
+                        <foaf:givenname>Amiraj</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jha</foaf:surname>
+                        <foaf:givenname>Rohit</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Honrao</foaf:surname>
+                        <foaf:givenname>Vipul</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:date>2013</dc:date>
+        <dc:description>bibtex: adhatrao2013predicting</dc:description>
+        <dc:title>Predicting Students' Performance using ID3 and C4. 5 Classification Algorithms</dc:title>
+    </bib:Article>
+    <bib:Recording rdf:about="https://youtu.be/bxe2T-V8XRs">
+        <z:itemType>videoRecording</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>WelchLabs</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <z:directors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Welch</foaf:surname>
+                        <foaf:givenname>S</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:directors>
+        <link:link rdf:resource="#item_4577"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://youtu.be/bxe2T-V8XRs</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>Nov 4 2014</dc:date>
+        <dcterms:dateSubmitted>2017-01-17 04:42:27</dcterms:dateSubmitted>
+        <z:runningTime>3:07</z:runningTime>
+        <z:language>En</z:language>
+        <dcterms:abstract>Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.</dcterms:abstract>
+        <dc:title>Neural Networks Demystified Part 1: Data and Architecture</dc:title>
+        <z:shortTitle>Neural Networks Demystified P1</z:shortTitle>
+    </bib:Recording>
+    <z:Attachment rdf:about="#item_4577">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="storage:watch.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.youtube.com/watch?v=bxe2T-V8XRs</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2017-01-17 04:42:27</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Recording rdf:about="https://youtu.be/UJwK6jAStmg">
+        <z:itemType>videoRecording</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>WelchLabs</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <z:directors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Welch</foaf:surname>
+                        <foaf:givenname>S</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:directors>
+        <link:link rdf:resource="#item_4579"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://youtu.be/UJwK6jAStmg</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>Nov 7 2014</dc:date>
+        <dcterms:dateSubmitted>2017-01-17 04:46:44</dcterms:dateSubmitted>
+        <z:runningTime>4:27</z:runningTime>
+        <z:language>EN</z:language>
+        <dcterms:abstract>Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.</dcterms:abstract>
+        <dc:title>Neural Networks Demystified Part 2: Forward Propagation</dc:title>
+        <z:shortTitle>Neural Networks Demystified P2</z:shortTitle>
+    </bib:Recording>
+    <z:Attachment rdf:about="#item_4579">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="storage:watch.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.youtube.com/watch?v=UJwK6jAStmg</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2017-01-17 04:46:44</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Recording rdf:about="https://youtu.be/5u0jaA3qAGk">
+        <z:itemType>videoRecording</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>WelchLabs</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <z:directors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Welch</foaf:surname>
+                        <foaf:givenname>S</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:directors>
+        <link:link rdf:resource="#item_4581"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://youtu.be/5u0jaA3qAGk</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>Nov 9 2014</dc:date>
+        <dcterms:dateSubmitted>2017-01-17 04:49:59</dcterms:dateSubmitted>
+        <z:runningTime>6:55</z:runningTime>
+        <dcterms:abstract>Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.</dcterms:abstract>
+        <dc:title>Neural Networks Demystified Part 3: Gradient Descent</dc:title>
+        <z:shortTitle>Neural Networks Demystified [Part 3</z:shortTitle>
+    </bib:Recording>
+    <z:Attachment rdf:about="#item_4581">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="storage:watch.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.youtube.com/watch?v=5u0jaA3qAGk</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2017-01-17 04:49:59</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Recording rdf:about="https://youtu.be/GlcnxUlrtek">
+        <z:itemType>videoRecording</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>WelchLabs</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <z:directors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Welch</foaf:surname>
+                        <foaf:givenname>S</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:directors>
+        <link:link rdf:resource="#item_4583"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://youtu.be/GlcnxUlrtek</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>December 5 2014</dc:date>
+        <dcterms:dateSubmitted>2017-01-17 14:36:28</dcterms:dateSubmitted>
+        <dcterms:abstract>Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.</dcterms:abstract>
+        <dc:title>Neural Networks Demystified Part 4: Backpropagation</dc:title>
+        <z:shortTitle>Neural Networks Demystified P4</z:shortTitle>
+    </bib:Recording>
+    <z:Attachment rdf:about="#item_4583">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="storage:watch.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.youtube.com/watch?v=GlcnxUlrtek</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2017-01-17 14:36:28</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Recording rdf:about="https://youtu.be/pHMzNW8Agq4">
+        <z:itemType>videoRecording</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>WelchLabs</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <z:directors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Welch</foaf:surname>
+                        <foaf:givenname>S</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:directors>
+        <link:link rdf:resource="#item_4585"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://youtu.be/pHMzNW8Agq4</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>December 19 2014</dc:date>
+        <dcterms:dateSubmitted>2017-01-17 14:38:19</dcterms:dateSubmitted>
+        <z:runningTime>4:13</z:runningTime>
+        <z:language>EN</z:language>
+        <dcterms:abstract>Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.</dcterms:abstract>
+        <dc:title>Neural Networks Demystified Part 5: Numerical Gradient Checking</dc:title>
+        <z:shortTitle>Neural Networks Demystified P5</z:shortTitle>
+    </bib:Recording>
+    <z:Attachment rdf:about="#item_4585">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="storage:watch.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.youtube.com/watch?v=pHMzNW8Agq4</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2017-01-17 14:38:19</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="http://dl.acm.org.ezproxy.cul.columbia.edu/citation.cfm?id=2566245">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>DOI 10.1145/2556325.2566245</dc:identifier>
+                <dc:title>Proceedings of the first ACM Learning@Scale conference</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Atlanta, GA</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>ACM</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tomkin</foaf:surname>
+                        <foaf:givenname>Jonathan H</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Charlevoix</foaf:surname>
+                        <foaf:givenname>Donna</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://dl.acm.org.ezproxy.cul.columbia.edu/citation.cfm?id=2566245</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>71-78</bib:pages>
+        <dc:date>March 4 2014</dc:date>
+        <dc:description>bibtex: tomkin2014professors</dc:description>
+        <bib:presentedAt>
+           <bib:Conference><dc:title>Learning@Scale</dc:title></bib:Conference>
+        </bib:presentedAt>
+        <dc:title>Do professors matter?: Using an a/b test to evaluate the impact of instructor involvement on MOOC student outcomes</dc:title>
+    </rdf:Description>
+    <bib:BookSection rdf:about="urn:isbn:978-0-9952408-0-3">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:identifier>ISBN 978-0-9952408-0-3</dc:identifier>
+                <dc:title>The Handbook of Learning Analytics</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Vancouver, BC, Canada</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Klerkx</foaf:surname>
+                        <foaf:givenname>Joris</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Verbert</foaf:surname>
+                        <foaf:givenname>Katrien</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Duval</foaf:surname>
+                        <foaf:givenname>Erik</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>www.solaresearch.org</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <prism:edition>1</prism:edition>
+        <dc:date>2017</dc:date>
+        <z:language>EN</z:language>
+        <dc:title>Learning Analytics Dashboards</dc:title>
+    </bib:BookSection>
+</rdf:RDF>

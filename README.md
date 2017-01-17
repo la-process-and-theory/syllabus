@@ -142,7 +142,7 @@ Watch:
 
 ### Learning Objectives:
 
- * 
+ * Implement a neural network solution to an educational prediction problem
 
 ### Tasks to be completed:
 
@@ -154,33 +154,32 @@ Watch:
 * [Welch, S. (2014). Neural Networks Demystified Part 4: Backpropagation. WelchLabs.](https://youtu.be/GlcnxUlrtek)  
 * [Welch, S. (2014). Neural Networks Demystified Part 5: Numerical Gradient Checking. WelchLabs.](https://youtu.be/pHMzNW8Agq4)
 
+# <A NAME="unit5">Unit 5: Closing the Loop
 
-## Class 11 - Networks (10/13/16)
-
-### Learning Objectives:
-
- * Conceptualize a data structure suitable for network analysis, generate a network and produce basic summary metrics
-
-### Tasks to be completed:
-
-Read/Comment:
-
-* [Hanneman, R.A. and Riddle, M. Chapter 1: Social Network Data. Introduction to Social Network Methods.](http://faculty.ucr.edu/~hanneman/nettext/C1_Social_Network_Data.html)
-
-Due: Assignment 2 - Social Network
-
-## Class 12 - Clustering (10/18/16)
+## Class 9 - Experimental Design (3/30/17)
 
 ### Learning Objectives:
 
- * Understand the basic principle and algorithm behind cluster analysis
+ * Understand approaches to experimental design, in particular randomization and A/B Testing
 
 ### Tasks to be completed:
 
-Read/Comment:
-* [Bowers, A.J. (2010) Analyzing the Longitudinal K-12 Grading Histories of Entire Cohorts of Students: Grades, Data Driven Decision Making, Dropping Out and Hierarchical Cluster Analysis. Practical Assessment, Research & Evaluation (PARE), 15(7), 1-18.](http://pareonline.net/pdf/v15n7.pdf)
+Read:
 
-## Class 13 - Clustering (10/20/16)
+* [Tomkin, J. H., & Charlevoix, D. (2014). Do Professors Matter?: Using an A/B Test to Evaluate the Impact of Instructor Involvement on MOOC Student Outcomes. In Proceedings of the first ACM Learning@Scale Conference (pp. 71–78). Atlanta, GA: ACM.](http://dl.acm.org.ezproxy.cul.columbia.edu/citation.cfm?id=2566245)
+
+## Class 10 - Interactive Visualization I (4/6/17)
+
+### Learning Objectives:
+
+ * Understand how to set up a Shiny App in R
+
+### Tasks to be completed:
+
+Read:
+* [Klerkx, J., Verbert, K., & Duval, E. (2017). Learning Analytics Dashboards. In The Handbook of Learning Analytics (1st ed.). Vancouver, BC, Canada.](www.solaresearch.org)
+
+## Class 11 - Interactive Visualization II (4/13/17)
 
 ### Learning Objectives:
 
@@ -241,7 +240,7 @@ Watch:
 * Chapter 7 in Baker, R. (2014). Big Data in Education:[video 6](https://youtu.be/oFSV6-opnws)
  
 
-# <A NAME="unit4">Unit 4: Prediction
+
 
 ## Class 18 - Prediction (11/8/16)
 

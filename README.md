@@ -24,7 +24,7 @@ This necessarily means that students become comfortable with the educational app
 
 ## Assessment
 
-In HUDK 4051 students will be assessed on their completion of six data science projects. In addition, there will be a mid-semester exam that will *begin* during class on March 9 and be completed by March 11. The exam will not contribute to students' grade, the exam will provide feedback for students to incorporate into their future assignments.
+In HUDK 4051 students will be assessed on their completion of six data science projects. In addition, there will be a mid-semester exam that will *begin* during class on March 9 and be completed by March 11. The exam will not contribute to students' grade, but will provide feedback for students to incorporate into their future assignments. Students will then be graded on whether or not they improve.
 
 Tasks that need to be completed during the semester:
 

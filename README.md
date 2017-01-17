@@ -130,7 +130,7 @@ Read:
  * Understand the basic of neural networks
 
 Read:
-* [Stergiou, C., & Siganos, D. (2000). Neural Networks. Retrieved January 13, 2017](http://www.doc.ic.ac.uk/~nd/surprise_96/journal/vol4/cs11/report.html)
+* [Stergiou, C., & Siganos, D. (2000). Neural Networks.](http://www.doc.ic.ac.uk/~nd/surprise_96/journal/vol4/cs11/report.html)
 
 ## Class 10 - Networks (10/11/16)
 

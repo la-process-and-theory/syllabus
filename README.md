@@ -123,20 +123,20 @@ Read:
 
 # <A NAME="unit3">Unit 4: Neural Networks
 
-## Class 7 - Neural Networks (3/2/17)
+## Class 7 - Neural Networks I (3/2/17)
 
 ### Learning Objectives:
 
- * Understand the basic of neural networks
+ * Understand the basics of neural networks
 
 Read:
 * [Stergiou, C., & Siganos, D. (2000). Neural Networks.](http://www.doc.ic.ac.uk/~nd/surprise_96/journal/vol4/cs11/report.html)
 
-## Class 10 - Networks (10/11/16)
+## Class 8 - Neural Networks II (3/9/17)
 
 ### Learning Objectives:
 
- * Understand the basic premise of graph theory applied to social networks
+ * 
 
 ### Tasks to be completed:
 

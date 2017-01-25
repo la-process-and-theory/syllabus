@@ -73,7 +73,7 @@ Read
 ### Tasks to be completed:
 
 Read
-* [Adhatrao, K., Gaykar, A., Dhawan, A., Jha, R., & Honrao, V. (2013). Predicting Students’ Performance using ID3 and C4. 5 Classification Algorithms. International Journal of Data Mining & Knowledge Management Proces, 3(5).](https://arxiv.org/ftp/arxiv/papers/1310/1310.2071.pdf)
+* [Adhatrao, K., Gaykar, A., Dhawan, A., Jha, R., & Honrao, V. (2013). Predicting Students’ Performance Using ID3 and C4. 5 Classification Algorithms. International Journal of Data Mining & Knowledge Management Process, 3(5).](https://arxiv.org/ftp/arxiv/papers/1310/1310.2071.pdf)
 
 ### Assignment 1
  

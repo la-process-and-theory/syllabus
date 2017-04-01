@@ -187,7 +187,7 @@ Read:
 ### Tasks to be completed:
 
 Read:
-* [Klerkx, J., Verbert, K., & Duval, E. (2017). Learning Analytics Dashboards. In The Handbook of Learning Analytics (1st ed.). Vancouver, BC, Canada.](www.solaresearch.org)
+* [Verbert, K., Duval, E., Klerkx, J., Govaerts, S., & Santos, J. L. (2013). Learning Analytics Dashboard Applications. American Behavioral Scientist, 57(10), 1500–1509.](http://journals.sagepub.com/doi/abs/10.1177/0002764213479363)
 
 ## Class 12 - Interactive Visualization II (4/13/17)
 

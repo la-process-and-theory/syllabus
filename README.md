@@ -1,50 +1,53 @@
 # Learning Analytics, Process & Theory: Syllabus
 
 * **Course:** [HUDK 4051, Teachers College, Columbia](https://github.com/la-theory-and-practice)
-* **Instructor:** Charles Lang, [charles.lang@tc.columbia.edu](charles.lang@tc.columbia.edu), @learng00d, #TCLA16
-* **Day/Time:** Thursdays, 2:00pm - 3:40pm  
-* **Location:** GDH 461
-* **Instructor Office Hours:** Tuesdays & Thursdays, 3:40pm - 5:00pm or [by appointment](https://calendar.google.com/calendar/selfsched?sstoken=UUNxY1RIY01kNmJZfGRlZmF1bHR8M2U5ODgxZmNiOWQ0NDc2N2VmNWQ0NThiM2JmMGRmZmQ) in GDH 540
+* **Instructor:** Charles Lang, [charles.lang@tc.columbia.edu](charles.lang@tc.columbia.edu), @learng00d
+* **Day/Time:** Mondays & Wednesdays, 6:00pm - 7:40pm  
+* **Location:** GDH 545
+* **Instructor Office Hours:** Mondays & Wednesdays, 4:00pm - 6:00pm [by appointment](https://calendar.google.com/calendar/selfsched?sstoken=UUNxY1RIY01kNmJZfGRlZmF1bHR8M2U5ODgxZmNiOWQ0NDc2N2VmNWQ0NThiM2JmMGRmZmQ) in GDH 540
 *  **Prerequisite:** HUDK 4050 *or* approved statistics/computer science data mining course.
 *  **Credits:** 3
 *  **Required Technology:** Laptop with RStudio installed
 
 ## Course Description
 
-The Internet and mobile computing are changing our relationship to data. Data can be collected from more people, across longer periods of time, and a greater number of variables, at a lower cost and with less effort than ever before. This has brought opportunities and challenges to many domains, but the full impact on education is only beginning to be felt. Learning Analytics, Theory & Practice builds on HUDK 4050 Core Methods in Educational Data Mining to provide advanced techniques in the use of new data sources in education with the aim of developing students’ ability to perform analyses and critically evaluate their application in this emerging field. It covers methods and technologies associated with Data Science, Educational Data Mining and Learning Analytics, as well as discusses the opportunities for education that these methods present and the problems that they may create.
+The Internet and mobile computing are changing our relationship to data. Data can be collected from more people, across longer periods of time, and a greater number of variables, at a lower cost and with less effort than ever before. This has brought opportunities and challenges to many domains, but the full impact on education is only beginning to be felt. Learning Analytics, Theory & Practice builds on HUDK 4050 Core Methods in Educational Data Mining to provide advanced techniques in the use of new data sources in education with the aim of developing students’ ability to perform analyses and critically evaluate their application in this emerging field. It covers methods and technologies associated with data science, machine learning and learning analytics, as well as discusses the opportunities for education that these methods present and the problems that they may create.
 
 ## Course Goals
 
-The overarching goal of this course is for students to acquire the knowledge and skills to be intelligent producers and consumers of data mining in education. By the end of the course students should:
+The overarching goal of this course is for students to acquire the knowledge and skills to be intelligent producers and consumers of data in education. By the end of the course students should:
 
  * Systematically develop a line of inquiry utilizing data to make an argument about learning
  * Be able to evaluate the implications of data science for educational research, policy, and practice 
 
 This necessarily means that students become comfortable with the educational applications of three domain areas: computer science, statistics and the context surrounding data use. There is no expectation for students to become experts in any one of these areas but rather the course will aim to: enhance student competency in identifying issues at the level of data acquisition, data analysis and application of analyses to the educational enterprise.
 
+## Course Structure
+
+HUDK 4051 is a **disaggregated course**, that is students choose the order in which they wish to complete the course content. The course is made up of eight units, the first and last unit are preset, but the other units are completed in the order that students choose. Students will have two weeks to complete each unit.
+
+The class meets twice per week. However, Monday classes will be devoted to recording a podcast and only those students who are signed up to attened are required to. The podcast will provide the content matter on topics from each unit. Wednesday class will be activity based, an opportunity to ask questions about work, do activities and dicussion.
+
 ## Assessment
 
-In HUDK 4051 students will be assessed on their completion of six data science projects. In addition, there will be a mid-semester exam that will *begin* during class on March 9 and be completed by March 11. The exam will not contribute to students' grade, but will provide feedback for students to incorporate into their future assignments. Students will then be graded on whether or not they improve.
+In HUDK 4051 students will be assessed on their completion of the projects associated with each unit. 
 
 Tasks that need to be completed during the semester:
 
 Weekly:
  * Attend class
- * Weekly readings
- * Maintain documentation of work (Github, R Markdown, Zotero)
+ * Complete all activities within each unit
 
 One time only:
  * In person meeting with instructor
- * 6 assignments
- * Group presentation 
- * Mid-semester take-home exam
- * Record a tutorial session - Recordings will take place on Tuesdays [please sign up for a week](https://docs.google.com/a/tc.columbia.edu/spreadsheets/d/1fCEK3q-DomnjBYtt_GxIp7QfefAWVexIQz1mgcenIxw/edit?usp=sharing)
+ * 8 assignments
+ * Record a tutorial session - Recordings will take place on Mondays [please sign up for a week](https://docs.google.com/a/tc.columbia.edu/spreadsheets/d/1fCEK3q-DomnjBYtt_GxIp7QfefAWVexIQz1mgcenIxw/edit?usp=sharing)
 
-## Week-by-week
+## Units
 
-<A HREF="#unit1">Unit 1: Introduction</A>
+* Recommender Systems: Collaborative Filters (Start Here)
 
-<A HREF="#unit2">Unit 2: Some Old Friends</A>
+* Prediction Reciew: Some Old Friends</A>
 
 <A HREF="#unit3">Unit 3: Natural Language Processing</A>
 

@@ -24,7 +24,7 @@ This necessarily means that students become comfortable with the educational app
 
 ## Course Structure
 
-HUDK 4051 is a **disaggregated course**, that is students choose the order in which they wish to complete the course content. The course is made up of eight units, the first and last unit are preset, but the other units are completed in the order that students choose. Students will have two weeks to complete each unit.
+HUDK 4051 is a **disaggregated course** in which students choose the order in which they wish to complete the course content. The course is made up of eight units, the first and last unit are preset, but the other units are completed in the order that students choose. Students will have two weeks to complete each unit.
 
 The class meets twice per week. However, Monday classes will be devoted to recording a podcast and only those students who are signed up to attened are required to. The podcast will provide the content matter on topics from each unit. Wednesday class will be activity based, an opportunity to ask questions about work, do activities and dicussion.
 
@@ -45,15 +45,30 @@ One time only:
 
 ## Units
 
-* Recommender Systems: Collaborative Filters (Start Here)
+**January 22**
 
-* Prediction Reciew: Some Old Friends</A>
+* Recommender Systems: Collaborative Filters 
 
-<A HREF="#unit3">Unit 3: Natural Language Processing</A>
+**Januray 29**
 
-<A HREF="#unit4">Unit 4: Neural Networks</A>
+* Prediction: Telling the Future
 
-<A HREF="#unit5">Unit 5: Closing the Loop</A>
+* Social Networks: Finding Clusters within Groups
+
+* Neural Networks: Learning through Learning
+
+* Natural Language Processing: Analyzing Unstructured Data
+
+* Interactive Visualization: Leading Users through Data
+
+* Closing the Loop: Converting Insight into Action
+
+**April 30**
+
+* Final task
+
+
+
 
 # <A NAME="unit1:">Unit 1: Introduction
 

@@ -49,7 +49,7 @@ One time only:
 
 * [Recommender Systems: Collaborative Filters](https://github.com/la-process-and-theory/recommender-systems) 
 
-**Januray 29**
+**Januray 29 - April 26**
 
 * Prediction: Telling the Future
 

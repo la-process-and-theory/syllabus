@@ -47,7 +47,7 @@ One time only:
 
 **January 22**
 
-* Recommender Systems: Collaborative Filters 
+* [Recommender Systems: Collaborative Filters](https://github.com/la-process-and-theory/recommender-systems) 
 
 **Januray 29**
 

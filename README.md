@@ -63,11 +63,30 @@ One time only:
 
 * Closing the Loop: Converting Insight into Action
 
-**April 30**
+**April 23**
 
 * Final task
 
-
+| Week          | Date          | Monday              | Wednesday     | Change Unit        |
+| ------------- | ------------- | -------------       | ------------- | -------------      | 
+| 1             | January 15    | No class            | Introduction  |                    |
+| 2             | January 22    | Recommender Systems | Tutorial      |                    |
+| 3             | January 29    | Tutorial            | Tutorial      |**Choose New Unit** |
+| 4             | February 5    | Podcast 1           | Tutorial      |                    |
+| 5             | February 12   | Review Podcast      | Tutorial      |**Choose New Unit** |
+| 6             | February 19   | Podcast 2           | Tutorial      |                    |
+| 7             | February 26   | Review Podcast      | Tutorial      |**Choose New Unit** |
+| 8             | March 5       | No class            | No class      |                    |
+| 9             | March 12      | Spring Break        | Spring Break  |                    |
+| 10            | March 19      | Podcast 3           | Tutorial      |**Choose New Unit** |
+| 11            | March 26      | Review Podcast      | Tutorial      |                    |
+| 12            | April 2       | Podcast 4           | Tutorial      |**Choose New Unit** |
+| 13            | April 9       | Podcast Review      | Tutorial      |                    |
+| 14            | April 16      | Podcast 5           | Tutorial      |**Choose New Unit** |
+| 15            | April 17      | Podcast Review      | Tutorial      |**All Units Due**   |
+| 16            | April 23      | Podcast 6           | Tutorial      |**Final Task**      |
+| 17            | April 30      | Tutorial            | Tutorial      |                    | 
+| 18            | May 7         | Tutorial            | No class      |**Final Task Due**  |
 
 
 # <A NAME="unit1:">Unit 1: Introduction

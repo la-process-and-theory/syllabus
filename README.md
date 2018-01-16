@@ -83,10 +83,9 @@ One time only:
 | 12            | April 2       | Podcast 4           | Tutorial      |**Choose New Unit** |
 | 13            | April 9       | Podcast Review      | Tutorial      |                    |
 | 14            | April 16      | Podcast 5           | Tutorial      |**Choose New Unit** |
-| 15            | April 17      | Podcast Review      | Tutorial      |**All Units Due**   |
-| 16            | April 23      | Podcast 6           | Tutorial      |**Final Task**      |
-| 17            | April 30      | Tutorial            | Tutorial      |                    | 
-| 18            | May 7         | Tutorial            | No class      |**Final Task Due**  |
+| 15            | April 23      | Podcast Review      | Tutorial      |**All Units Due**   |
+| 16            | April 30      | Podcast 6           | Tutorial      |**Final Task**      |
+| 17            | May 7         | Tutorial            | No class      |**Final Task Due**  |
 
 
 # <A NAME="unit1:">Unit 1: Introduction

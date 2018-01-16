@@ -76,15 +76,15 @@ One time only:
 | 5             | February 12   | Review Podcast      | Tutorial      |**Choose New Unit** |
 | 6             | February 19   | Podcast 2           | Tutorial      |                    |
 | 7             | February 26   | Review Podcast      | Tutorial      |**Choose New Unit** |
-| 8             | March 5       | No class            | No class      |                    |
+| 8             | March 5       | Podcast 3           | No class      |                    |
 | 9             | March 12      | Spring Break        | Spring Break  |                    |
-| 10            | March 19      | Podcast 3           | Tutorial      |**Choose New Unit** |
-| 11            | March 26      | Review Podcast      | Tutorial      |                    |
-| 12            | April 2       | Podcast 4           | Tutorial      |**Choose New Unit** |
-| 13            | April 9       | Podcast Review      | Tutorial      |                    |
-| 14            | April 16      | Podcast 5           | Tutorial      |**Choose New Unit** |
-| 15            | April 23      | Podcast Review      | Tutorial      |**All Units Due**   |
-| 16            | April 30      | Podcast 6           | Tutorial      |**Final Task**      |
+| 10            | March 19      | Review Podcast      | Tutorial      |**Choose New Unit** |
+| 11            | March 26      | Podcast 4           | Tutorial      |                    |
+| 12            | April 2       | Review Podcast      | Tutorial      |**Choose New Unit** |
+| 13            | April 9       | Podcast 5           | Tutorial      |                    |
+| 14            | April 16      | Review Podcast      | Tutorial      |**Choose New Unit** |
+| 15            | April 23      | Podcast 6           | Tutorial      |**All Units Due**   |
+| 16            | April 30      | Tutorial            | Tutorial      |**Final Task**      |
 | 17            | May 7         | Tutorial            | No class      |**Final Task Due**  |
 
 

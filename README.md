@@ -67,25 +67,25 @@ One time only:
 
 * Final task
 
-| Week          | Date          | Monday              | Wednesday     | Change Unit        |
-| ------------- | ------------- | -------------       | ------------- | -------------      | 
-| 1             | January 15    | No class            | Introduction  |                    |
-| 2             | January 22    | Recommender Systems | Tutorial      |                    |
-| 3             | January 29    | Tutorial            | Tutorial      |**Choose New Unit** |
-| 4             | February 5    | Podcast 1           | Tutorial      |                    |
-| 5             | February 12   | Review Podcast      | Tutorial      |**Choose New Unit** |
-| 6             | February 19   | Podcast 2           | Tutorial      |                    |
-| 7             | February 26   | Review Podcast      | Tutorial      |**Choose New Unit** |
-| 8             | March 5       | Podcast 3           | No class      |                    |
-| 9             | March 12      | Spring Break        | Spring Break  |                    |
-| 10            | March 19      | Review Podcast      | Tutorial      |**Choose New Unit** |
-| 11            | March 26      | Podcast 4           | Tutorial      |                    |
-| 12            | April 2       | Review Podcast      | Tutorial      |**Choose New Unit** |
-| 13            | April 9       | Podcast 5           | Tutorial      |                    |
-| 14            | April 16      | Review Podcast      | Tutorial      |**Choose New Unit** |
-| 15            | April 23      | Podcast 6           | Tutorial      |**All Units Due**   |
-| 16            | April 30      | Tutorial            | Tutorial      |**Final Task**      |
-| 17            | May 7         | Tutorial            | No class      |**Final Task Due**  |
+| Week          | Date          | Monday              | Wednesday     | Change Unit        | Podcasters                          |
+| ------------- | ------------- | -------------       | ------------- | -------------      | ---------------                     |
+| 1             | January 15    | No class            | Introduction  |                    |                                     |
+| 2             | January 22    | Recommender Systems | Tutorial      |                    |                                     |
+| 3             | January 29    | Tutorial            | Tutorial      |**Choose New Unit** |                                     |
+| 4             | February 5    | Podcast 1           | Tutorial      |                    | Taha, Xuecen, Rebecca, Xinyi Mai    |
+| 5             | February 12   | Review Podcast      | Tutorial      |**Choose New Unit** |                                     |
+| 6             | February 19   | Podcast 2           | Tutorial      |                    | Kim, Blake, Maria, Sarah            | 
+| 7             | February 26   | Review Podcast      | Tutorial      |**Choose New Unit** |                                     |
+| 8             | March 5       | Podcast 3           | No class      |                    | Yigu, Nuo, Muyun, Anh               |
+| 9             | March 12      | Spring Break        | Spring Break  |                    |                                     |
+| 10            | March 19      | Review Podcast      | Tutorial      |**Choose New Unit** |                                     |
+| 11            | March 26      | Podcast 4           | Tutorial      |                    | Jieqiong, Yi Shen, Liyan Peng, John |
+| 12            | April 2       | Review Podcast      | Tutorial      |**Choose New Unit** |                                     |
+| 13            | April 9       | Podcast 5           | Tutorial      |                    | Sizheng, Yun Yang, Xinyue Liu, Eddie|
+| 14            | April 16      | Review Podcast      | Tutorial      |**Choose New Unit** |                                     |
+| 15            | April 23      | Podcast 6           | Tutorial      |**All Units Due**   | Yipu Zheng, Marygracia, Randy       | 
+| 16            | April 30      | Tutorial            | Tutorial      |**Final Task**      |                                     |
+| 17            | May 7         | Tutorial            | No class      |**Final Task Due**  |                                     | 
 
 
 ## Fine Print

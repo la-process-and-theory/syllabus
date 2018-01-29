@@ -51,17 +51,17 @@ One time only:
 
 **Januray 29 - April 26**
 
-* Prediction: Telling the Future
+* [Prediction: Telling the Future](https://github.com/la-process-and-theory/prediction)
 
-* Social Networks: Finding Clusters within Groups
+* [Social Networks: Finding Clusters within Groups](https://github.com/la-process-and-theory/social-network-analysis)
 
-* Neural Networks: Learning through Learning
+* [Neural Networks: Learning through Learning](https://github.com/la-process-and-theory/neural-networks)
 
-* Natural Language Processing: Analyzing Unstructured Data
+* [Natural Language Processing: Analyzing Unstructured Data](https://github.com/la-process-and-theory/natural-language-processing)
 
-* Interactive Visualization: Leading Users through Data
+* [Interactive Visualization: Leading Users through Data](https://github.com/la-process-and-theory/interactive-visualization)
 
-* Closing the Loop: Converting Insight into Action
+* [Closing the Loop: Converting Insight into Action](https://github.com/la-process-and-theory/loop-closing)
 
 **April 23**
 

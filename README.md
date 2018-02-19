@@ -81,9 +81,9 @@ One time only:
 | 10            | March 19      | Review Podcast      | Tutorial      |**Choose New Unit** |                                     |
 | 11            | March 26      | Podcast 4           | Tutorial      |                    | Jieqiong, Yi Shen, Liyan Peng, John |
 | 12            | April 2       | Review Podcast      | Tutorial      |**Choose New Unit** |                                     |
-| 13            | April 9       | Podcast 5           | Tutorial      |                    | Sizheng, Yun Yang, Xinyue Liu, Eddie|
+| 13            | April 9       | Podcast 5           | Tutorial      |                    | Sizheng, Yun Yang, ~~Xinyue Liu~~, Eddie|
 | 14            | April 16      | Review Podcast      | Tutorial      |**Choose New Unit** |                                     |
-| 15            | April 23      | Podcast 6           | Tutorial      |**All Units Due**   | Yipu Zheng, Marygracia, Randy       | 
+| 15            | April 23      | Podcast 6           | Tutorial      |**All Units Due**   | Yipu Zheng, ~~Marygracia~~, Randy       | 
 | 16            | April 30      | Tutorial            | Tutorial      |**Final Task**      |                                     |
 | 17            | May 7         | Tutorial            | No class      |**Final Task Due**  |                                     | 
 

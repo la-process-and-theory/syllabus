@@ -76,7 +76,7 @@ One time only:
 | 5             | February 12   | Review Podcast      | Tutorial      |**Choose New Unit** |                                     |
 | 6             | February 19   | Podcast 2           | Tutorial      |                    | Kim, Blake, Maria, Sarah            | 
 | 7             | February 26   | Review Podcast      | Tutorial      |**Choose New Unit** |                                     |
-| 8             | ~~March 5~~ March 1       | Podcast 3           | No class      |                    | Yigu, Nuo, Muyun, Anh               |
+| 8             | ~~March 5~~ March 1       | Podcast 3           | No class      |                    | Yigu, ~~Nuo~~, ~~Muyun~~, Anh               |
 | 9             | March 12      | Spring Break        | Spring Break  |                    |                                     |
 | 10            | March 19      | Review Podcast      | Tutorial      |**Choose New Unit** |                                     |
 | 11            | March 26      | Podcast 4           | Tutorial      |                    | Jieqiong, Yi Shen, Liyan Peng, John |

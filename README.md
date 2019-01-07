@@ -3,7 +3,7 @@
 * **Course:** [HUDK 4051, Teachers College, Columbia](https://github.com/la-theory-and-practice)
 * **Instructor:** Charles Lang, [charles.lang@tc.columbia.edu](charles.lang@tc.columbia.edu), @learng00d
 * **Day/Time:** Tuesdays & Thursdays, 5:10pm - 6:50pm  
-* **Location:** GDH 545
+* **Location:** GDH 277
 * **Instructor Office Hours:** Tuesdays & Thursdays, 3:00pm - 5:00pm [by appointment](https://calendar.google.com/calendar/selfsched?sstoken=UUNxY1RIY01kNmJZfGRlZmF1bHR8M2U5ODgxZmNiOWQ0NDc2N2VmNWQ0NThiM2JmMGRmZmQ) in GDH 540
 *  **Prerequisite:** HUDK 4050 *or* approved statistics/computer science data mining course.
 *  **Credits:** 3

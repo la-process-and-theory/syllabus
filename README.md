@@ -77,7 +77,7 @@ One time only:
 | 6             | February 19   | Podcast 2           | Tutorial      |                    |                                     | 
 | 7             | February 25   | Networks            | Tutorial      |**Choose New Unit** |                                     |
 | 8             | March 4       | Podcast 3           | No class      |                    |                                     |
-| 9             | March 11      | Neural Networks     |               |                    |                                     |
+| 9             | March 11      | Neural Networks     | Tutorial      |                    |                                     |
 | 10            | March 18      | Spring Break        | Spring Break  |**Choose New Unit** |                                     |
 | 11            | March 25      | Podcast 4           | Tutorial      |                    |                                     |
 | 12            | April 1       | Natural Language    | Tutorial      |**Choose New Unit** |                                     |

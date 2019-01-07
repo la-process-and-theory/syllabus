@@ -67,25 +67,25 @@ One time only:
 
 * Final task
 
-| Week          | Date          | Monday              | Wednesday     | Change Unit        | Podcasters                          |
+| Week          | Week Starting | Tuesday             | Thursday      | Change Unit        | Podcasters                          |
 | ------------- | ------------- | -------------       | ------------- | -------------      | ---------------                     |
-| 1             | January 15    | No class            | Introduction  |                    |                                     |
-| 2             | January 22    | Recommender Systems | Tutorial      |                    |                                     |
-| 3             | January 29    | Tutorial            | Tutorial      |**Choose New Unit** |                                     |
-| 4             | February 5    | Podcast 1           | Tutorial      |                    |                                     |
-| 5             | February 12   | Review Podcast      | Tutorial      |**Choose New Unit** |                                     |
+| 1             | January 21    | No class            | Introduction  |                    |                                     |
+| 2             | January 28    | Recommender Systems | Tutorial      |                    |                                     |
+| 3             | February 4    | Tutorial            | Tutorial      |**Choose New Unit** |                                     |
+| 4             | February 11   | Podcast 1           | Tutorial      |                    |                                     |
+| 5             | February 18   | Prediction          | Tutorial      |**Choose New Unit** |                                     |
 | 6             | February 19   | Podcast 2           | Tutorial      |                    |                                     | 
-| 7             | February 26   | Review Podcast      | Tutorial      |**Choose New Unit** |                                     |
-| 8             | March 1       | Podcast 3           | No class      |                    |                                     |
-| 9             | March 12      | Spring Break        | Spring Break  |                    |                                     |
-| 10            | March 19      | Review Podcast      | Tutorial      |**Choose New Unit** |                                     |
-| 11            | March 26      | Podcast 4           | Tutorial      |                    |                                     |
-| 12            | April 2       | Review Podcast      | Tutorial      |**Choose New Unit** |                                     |
-| 13            | April 9       | Podcast 5           | Tutorial      |                    |                                     |
-| 14            | April 16      | Review Podcast      | Tutorial      |**Choose New Unit** |                                     |
-| 15            | April 23      | Podcast 6           | Tutorial      |**All Units Due**   |                                     | 
-| 16            | April 30      | Tutorial            | Tutorial      |**Final Task**      |                                     |
-| 17            | May 7         | Tutorial            | No class      |**Final Task Due**  |                                     | 
+| 7             | February 25   | Networks            | Tutorial      |**Choose New Unit** |                                     |
+| 8             | March 4       | Podcast 3           | No class      |                    |                                     |
+| 9             | March 11      | Neural Networks     |               |                    |                                     |
+| 10            | March 18      | Spring Break        | Spring Break  |**Choose New Unit** |                                     |
+| 11            | March 25      | Podcast 4           | Tutorial      |                    |                                     |
+| 12            | April 1       | Natural Language    | Tutorial      |**Choose New Unit** |                                     |
+| 13            | April 8       | Podcast 5           | Tutorial      |                    |                                     |
+| 14            | April 15      | Interactive Viz     | Tutorial      |**Choose New Unit** |                                     |
+| 15            | April 22      | Podcast 6           | Tutorial      |**All Units Due**   |                                     | 
+| 16            | April 29      | Closing the Loop    | Tutorial      |**Final Task**      |                                     |
+| 17            | May 6         | Tutorial            | No class      |**Final Task Due**  |                                     | 
 
 
 ## Fine Print

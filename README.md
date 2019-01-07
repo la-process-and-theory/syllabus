@@ -5,7 +5,7 @@
 * **Day/Time:** Tuesdays & Thursdays, 5:10pm - 6:50pm  
 * **Location:** GDH 277
 * **Instructor Office Hours:** Tuesdays & Thursdays, 3:00pm - 5:00pm [by appointment](https://calendar.google.com/calendar/selfsched?sstoken=UUNxY1RIY01kNmJZfGRlZmF1bHR8M2U5ODgxZmNiOWQ0NDc2N2VmNWQ0NThiM2JmMGRmZmQ) in GDH 540
-*  **Prerequisite:** HUDK 4050 *or* approved statistics/computer science data mining course.
+*  **Prerequisite:** None, but please see the instructor if you have no statistics or computer science background
 *  **Credits:** 3
 *  **Required Technology:** Laptop with RStudio installed
 

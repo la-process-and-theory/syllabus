@@ -4,7 +4,7 @@
 * **Instructor:** Charles Lang, [charles.lang@tc.columbia.edu](charles.lang@tc.columbia.edu), @learng00d
 * **Day/Time:** Mondays & Wednesdays, 6:00pm - 7:40pm  
 * **Location:** GDH 545
-* **Instructor Office Hours:** Mondays & Wednesdays, 4:00pm - 6:00pm [by appointment](https://calendar.google.com/calendar/selfsched?sstoken=UUNxY1RIY01kNmJZfGRlZmF1bHR8M2U5ODgxZmNiOWQ0NDc2N2VmNWQ0NThiM2JmMGRmZmQ) in GDH 540
+* **Instructor Office Hours:** Tuesdays & Thursdays, 3:00pm - 5:00pm [by appointment](https://calendar.google.com/calendar/selfsched?sstoken=UUNxY1RIY01kNmJZfGRlZmF1bHR8M2U5ODgxZmNiOWQ0NDc2N2VmNWQ0NThiM2JmMGRmZmQ) in GDH 540
 *  **Prerequisite:** HUDK 4050 *or* approved statistics/computer science data mining course.
 *  **Credits:** 3
 *  **Required Technology:** Laptop with RStudio installed
@@ -17,7 +17,7 @@ The Internet and mobile computing are changing our relationship to data. Data ca
 
 The overarching goal of this course is for students to acquire the knowledge and skills to be intelligent producers and consumers of data in education. By the end of the course students should:
 
- * Systematically develop a line of inquiry utilizing data to make an argument about learning
+ * Develop a portfolio of educational data science projects
  * Be able to evaluate the implications of data science for educational research, policy, and practice 
 
 This necessarily means that students become comfortable with the educational applications of three domain areas: computer science, statistics and the context surrounding data use. There is no expectation for students to become experts in any one of these areas but rather the course will aim to: enhance student competency in identifying issues at the level of data acquisition, data analysis and application of analyses to the educational enterprise.
@@ -36,12 +36,12 @@ Tasks that need to be completed during the semester:
 
 Weekly:
  * Attend class
- * Complete all activities within each unit
+ * Complete activities within each unit
 
 One time only:
  * In person meeting with instructor
  * 8 assignments
- * Record a tutorial session - Recordings will take place on Mondays [please sign up for a week](https://docs.google.com/a/tc.columbia.edu/spreadsheets/d/1fCEK3q-DomnjBYtt_GxIp7QfefAWVexIQz1mgcenIxw/edit?usp=sharing)
+ * Record a tutorial session - Recordings will take place on Tuesdays [please sign up for a week](https://docs.google.com/a/tc.columbia.edu/spreadsheets/d/1fCEK3q-DomnjBYtt_GxIp7QfefAWVexIQz1mgcenIxw/edit?usp=sharing)
 
 ## Units
 
@@ -72,18 +72,18 @@ One time only:
 | 1             | January 15    | No class            | Introduction  |                    |                                     |
 | 2             | January 22    | Recommender Systems | Tutorial      |                    |                                     |
 | 3             | January 29    | Tutorial            | Tutorial      |**Choose New Unit** |                                     |
-| 4             | February 5    | Podcast 1           | Tutorial      |                    | Taha, Xuecen, Rebecca, Xinyi Mai    |
+| 4             | February 5    | Podcast 1           | Tutorial      |                    |                                     |
 | 5             | February 12   | Review Podcast      | Tutorial      |**Choose New Unit** |                                     |
-| 6             | February 19   | Podcast 2           | Tutorial      |                    | Kim, Blake, Maria, Sarah            | 
+| 6             | February 19   | Podcast 2           | Tutorial      |                    |                                     | 
 | 7             | February 26   | Review Podcast      | Tutorial      |**Choose New Unit** |                                     |
-| 8             | ~~March 5~~ March 1       | Podcast 3           | No class      |                    | Yigu, ~~Nuo~~, ~~Muyun~~, Anh               |
+| 8             | March 1       | Podcast 3           | No class      |                    |                                     |
 | 9             | March 12      | Spring Break        | Spring Break  |                    |                                     |
 | 10            | March 19      | Review Podcast      | Tutorial      |**Choose New Unit** |                                     |
-| 11            | March 26      | Podcast 4           | Tutorial      |                    | Jieqiong, Yi Shen, Liyan Peng, John |
+| 11            | March 26      | Podcast 4           | Tutorial      |                    |                                     |
 | 12            | April 2       | Review Podcast      | Tutorial      |**Choose New Unit** |                                     |
-| 13            | April 9       | Podcast 5           | Tutorial      |                    | Sizheng, Yun Yang, ~~Xinyue Liu~~, Eddie|
+| 13            | April 9       | Podcast 5           | Tutorial      |                    |                                     |
 | 14            | April 16      | Review Podcast      | Tutorial      |**Choose New Unit** |                                     |
-| 15            | April 23      | Podcast 6           | Tutorial      |**All Units Due**   | Yipu Zheng, ~~Marygracia~~, Randy       | 
+| 15            | April 23      | Podcast 6           | Tutorial      |**All Units Due**   |                                     | 
 | 16            | April 30      | Tutorial            | Tutorial      |**Final Task**      |                                     |
 | 17            | May 7         | Tutorial            | No class      |**Final Task Due**  |                                     | 
 

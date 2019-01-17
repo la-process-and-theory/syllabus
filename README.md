@@ -83,8 +83,8 @@ One time only:
 | 12            | April 1       | Natural Language    | Tutorial      |**Choose New Unit** |                                     |
 | 13            | April 8       | Podcast 5           | Tutorial      |                    |                                     |
 | 14            | April 15      | Interactive Viz     | Tutorial      |**Choose New Unit** |                                     |
-| 15            | April 22      | Podcast 6           | Tutorial      |**All Units Due**   |                                     | 
-| 16            | April 29      | Closing the Loop    | Tutorial      |**Final Task**      |                                     |
+| 15            | April 23      | Podcast 6           | Tutorial      |**All Units Due**   |                                     | 
+| 16            | April 25      | LA End of Year Party| Tutorial      |**Final Task**      |                                     |
 | 17            | May 6         | Tutorial            | No class      |**Final Task Due**  |                                     | 
 
 

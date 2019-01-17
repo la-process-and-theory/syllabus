@@ -84,7 +84,7 @@ One time only:
 | 13            | April 8       | Podcast 5           | Tutorial      |                    |                                     |
 | 14            | April 15      | Interactive Viz     | Tutorial      |**Choose New Unit** |                                     |
 | 15            | April 22      | Podcast 6           | Tutorial      |**All Units Due**   |                                     | 
-| 16            | April 29      | LA End of Year Party| Tutorial      |**Final Task**      |                                     |
+| 16            | April 29      | Closing the Loop    | LA End of Year Party|**Final Task**|                                     |
 | 17            | May 6         | Tutorial            | No class      |**Final Task Due**  |                                     | 
 
 

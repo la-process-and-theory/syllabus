@@ -71,18 +71,18 @@ One time only:
 | ------------- | ------------- | -------------       | ------------- | -------------      | ---------------                     |
 | 1             | January 21    | No class            | Introduction  |                    |                                     |
 | 2             | January 28    | Recommender Systems | Tutorial      |                    |                                     |
-| 3             | February 4    | Tutorial            | Tutorial      |**Choose New Unit** |                                     |
+| 3             | February 4    | Tutorial            | Tutorial      |**New Unit Tuesday**|                                     |
 | 4             | February 11   | Podcast 1           | Tutorial      |                    |                                     |
-| 5             | February 18   | Prediction          | No class      |**Choose New Unit** |                                     |
+| 5             | February 18   | Prediction          | No class      |**New Unit Tuesday**|                                     |
 | 6             | February 19   | Podcast 2           | Tutorial      |                    |                                     | 
-| 7             | February 25   | Networks            | Tutorial      |**Choose New Unit** |                                     |
+| 7             | February 25   | Networks            | Tutorial      |**New Unit Tuesday**|                                     |
 | 8             | March 4       | Podcast 3           | No class      |                    |                                     |
 | 9             | March 11      | Neural Networks     | Tutorial      |                    |                                     |
-| 10            | March 18      | Spring Break        | Spring Break  |**Choose New Unit** |                                     |
+| 10            | March 18      | Spring Break        | Spring Break  |**New Unit Tuesday**|                                     |
 | 11            | March 25      | Podcast 4           | Tutorial      |                    |                                     |
-| 12            | April 1       | Natural Language    | Tutorial      |**Choose New Unit** |                                     |
+| 12            | April 1       | Natural Language    | Tutorial      |**New Unit Tuesday**|                                     |
 | 13            | April 8       | Podcast 5           | Tutorial      |                    |                                     |
-| 14            | April 15      | Interactive Viz     | Tutorial      |**Choose New Unit** |                                     |
+| 14            | April 15      | Interactive Viz     | Tutorial      |**New Unit Tuesday**|                                     |
 | 15            | April 22      | Podcast 6           | Tutorial      |**All Units Due**   |                                     | 
 | 16            | April 29      | Closing the Loop    | LA End of Year Party|**Final Task**|                                     |
 | 17            | May 6         | Tutorial            | No class      |**Final Task Due**  |                                     | 

@@ -73,7 +73,7 @@ One time only:
 | 2             | January 28    | Recommender Systems | Tutorial      |                    |                                     |
 | 3             | February 4    | Tutorial            | Tutorial      |**Choose New Unit** |                                     |
 | 4             | February 11   | Podcast 1           | Tutorial      |                    |                                     |
-| 5             | February 18   | Prediction          | Tutorial      |**Choose New Unit** |                                     |
+| 5             | February 18   | Prediction          | No class      |**Choose New Unit** |                                     |
 | 6             | February 19   | Podcast 2           | Tutorial      |                    |                                     | 
 | 7             | February 25   | Networks            | Tutorial      |**Choose New Unit** |                                     |
 | 8             | March 4       | Podcast 3           | No class      |                    |                                     |

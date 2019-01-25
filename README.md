@@ -79,13 +79,13 @@ One time only:
 | 8             | March 4       | No class            | No class      |                    |                    |
 | 9             | March 11      | Podcast 4           |Neural Networks|**New Unit Tuesday**|                    |
 | 10            | March 18      | Spring Break        | Spring Break  |                    |                    |
-| 11            | March 25      | Natural Language    | Tutorial      |**New Unit Tuesday**|                    |
-| 12            | April 1       | Podcast 5           | Tutorial      |                    |                    |
-| 13            | April 8       | Interactive Viz     | Tutorial      |**New Unit Tuesday**|                    |
-| 14            | April 15      | Podcast 6           | Tutorial      |                    |                    |
-| 15            | April 22      | Mystery Unit Reveal | Tutorial      |**All Units Due April 22 7:00PM**|       | 
+| 11            | March 25      | Podcast 5           | Tutorial      |**New Unit Tuesday**|                    |
+| 12            | April 1       | Natural Language    | Tutorial      |                    |                    |
+| 13            | April 8       | Podcast 6           | Tutorial      |**New Unit Tuesday**|                    |
+| 14            | April 15      | Interactive Viz     | Tutorial      |                    |                    |
+| 15            | April 22      | Mystery Unit Reveal | Tutorial      |**All Units Due April 23 6:00PM**|       | 
 | 16            | April 29      | Tutorial            | LA End of Year Party|**Final Task**|                    |
-| 17            | May 6         | Tutorial            | No class      |**Final Task Due May 6 7:00PM**  |       | 
+| 17            | May 6         | Tutorial            | No class      |**Mystery Unit Due May 7 7:00PM**  |       | 
 
 
 ## Fine Print

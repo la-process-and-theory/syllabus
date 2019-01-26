@@ -73,19 +73,18 @@ One time only:
 | 2             | January 28    | Recommender Systems | Tutorial      |                    |                    |
 | 3             | February 4    | Podcast 1           | Tutorial      |**New Unit Tuesday**|                    |
 | 4             | February 11   | Prediction          | Tutorial      |                    |                    |
-| 5             | February 18   | Podcast 2           | No class      |**New Unit Tuesday**|                    |
-| 6             | February 19   | Social Networks     | Tutorial      |                    |                    | 
-| 7             | February 25   | Podcast 3           | Tutorial      |**New Unit Tuesday**|                    |
-| 8             | March 4       | No class            | No class      |                    |                    |
-| 9             | March 11      | Podcast 4           |Neural Networks|**New Unit Tuesday**|                    |
-| 10            | March 18      | Spring Break        | Spring Break  |                    |                    |
-| 11            | March 25      | Podcast 5           | Natural Language|**New Unit Tuesday**|                    |
-| 12            | April 1       | Interactive Viz     | Tutorial      |                    |                    |
-| 13            | April 8       | Podcast 6           | Tutorial      |**New Unit Tuesday**|                    |
-| 14            | April 15      | Closing the Loop    | Tutorial      |                    |                    |
-| 15            | April 22      | Mystery Unit Reveal | Tutorial      |**All Units Due April 23 6:00PM**|       | 
-| 16            | April 29      | Tutorial            | LA End of Year Party|**Final Task**|                    |
-| 17            | May 6         | Tutorial            | No class      |**Mystery Unit Due May 7 7:00PM**  |       | 
+| 5             | February 18   | Podcast 2           | No class      |**New Unit Tuesday**|                    | 
+| 6             | February 25   | Social Network      | Tutorial      |                    |                    |
+| 7             | March 4       | Podcast 3           | No class      |**New Unit Tuesday**|                    |
+| 8             | March 11      | Neural Networks     | Nat Language  |                    |                    |
+| 9             | March 18      | Podcast 4 (SB)      | Spring Break  |                    |                    |
+| 10            | March 25      | Interactive Viz     |               |**New Unit Tuesday**|                    |
+| 11            | April 1       | Podcast 5           | Tutorial      |                    |                    |
+| 12            | April 8       | Closing the Loop    | Tutorial      |**New Unit Tuesday**|                    |
+| 13            | April 15      | Podcast 6           | Tutorial      |                    |                    |
+| 14            | April 22      | Mystery Unit Reveal | Tutorial      |**All Units Due April 23 6:00PM**|       | 
+| 15            | April 29      | Tutorial            | LA End of Year Party|**Final Task**|                    |
+| 16            | May 6         | Tutorial            | No class      |**Mystery Unit Due May 7 7:00PM**  |     | 
 
 
 ## Fine Print

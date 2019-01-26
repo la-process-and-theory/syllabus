@@ -74,15 +74,15 @@ One time only:
 | 3             | February 4    | Podcast 1           | Tutorial      |**New Unit Tuesday**|                    |
 | 4             | February 11   | Prediction          | Tutorial      |                    |                    |
 | 5             | February 18   | Podcast 2           | No class      |**New Unit Tuesday**|                    |
-| 6             | February 19   | Networks            | Tutorial      |                    |                    | 
+| 6             | February 19   | Social Networks     | Tutorial      |                    |                    | 
 | 7             | February 25   | Podcast 3           | Tutorial      |**New Unit Tuesday**|                    |
 | 8             | March 4       | No class            | No class      |                    |                    |
 | 9             | March 11      | Podcast 4           |Neural Networks|**New Unit Tuesday**|                    |
 | 10            | March 18      | Spring Break        | Spring Break  |                    |                    |
-| 11            | March 25      | Podcast 5           | Tutorial      |**New Unit Tuesday**|                    |
-| 12            | April 1       | Natural Language    | Tutorial      |                    |                    |
+| 11            | March 25      | Podcast 5           | Natural Language|**New Unit Tuesday**|                    |
+| 12            | April 1       | Interactive Viz     | Tutorial      |                    |                    |
 | 13            | April 8       | Podcast 6           | Tutorial      |**New Unit Tuesday**|                    |
-| 14            | April 15      | Interactive Viz     | Tutorial      |                    |                    |
+| 14            | April 15      | Closing the Loop    | Tutorial      |                    |                    |
 | 15            | April 22      | Mystery Unit Reveal | Tutorial      |**All Units Due April 23 6:00PM**|       | 
 | 16            | April 29      | Tutorial            | LA End of Year Party|**Final Task**|                    |
 | 17            | May 6         | Tutorial            | No class      |**Mystery Unit Due May 7 7:00PM**  |       | 

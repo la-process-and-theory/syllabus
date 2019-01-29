@@ -82,8 +82,8 @@ One time only:
 | 11            | April 1       | Podcast 5           | Tutorial      |                    |L	Xiao, Z Lei, A Lizarov, J	Nava, S Wang  |
 | 12            | April 8       | Closing the Loop    | Tutorial      |**New Unit Thursday**|                    |
 | 13            | April 15      | Podcast 6           | Tutorial      |                    |M Villeroy, Y Tao, Z Lei, A Bian     |
-| 14            | April 22      | Mystery Unit Reveal | Tutorial      |**All Units Due April 25 5:00PM**|       | 
-| 15            | April 29      | Tutorial            | LA End of Year Party|**Final Task**|                    |
+| 14            | April 22      | Tutorial            | Mystery Unit/LA End of Year Party|**All Units Due April 25 5:00PM**|       | 
+| 15            | April 29      | Tutorial            | Tutorial     |**Final Task**|                    |
 | 16            | May 6         | Tutorial            | No class      |**Mystery Unit Due May 7 7:00PM**  |     | 
 
 

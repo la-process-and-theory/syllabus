@@ -71,18 +71,18 @@ One time only:
 | ------------- | ------------- | -------------       | ------------- | -------------      | ---------------    |
 | 1             | January 21    | No class            | Introduction  |                    |                    |
 | 2             | January 28    | Recommender Systems | Tutorial      |                    |                    |
-| 3             | February 4    | Podcast 1           | Tutorial      |**New Unit Tuesday**|O Ross, CA Yang, T Lee, X Zhao, |
+| 3             | February 4    | Podcast 1           | Tutorial      |**New Unit Thursday**|O Ross, CA Yang, T Lee, X Zhao, |
 | 4             | February 11   | Prediction          | Tutorial      |                    |                    |
-| 5             | February 18   | Podcast 2           | No class      |**New Unit Tuesday**|J	Li, Q	Zhou, X	Song, E Groves, SY Kao| 
+| 5             | February 18   | Podcast 2           | No class      |**New Unit Thursday**|J	Li, Q	Zhou, X	Song, E Groves, SY Kao| 
 | 6             | February 25   | Social Network      | Tutorial      |                    |                    |
-| 7             | March 4       | Podcast 3           | No class      |**New Unit Tuesday**|S	Yin, J Bylander, J Djuwadi, E Sawada|
+| 7             | March 4       | Podcast 3           | No class      |**New Unit Thursday**|S	Yin, J Bylander, J Djuwadi, E Sawada|
 | 8             | March 11      | Neural Networks     | Nat Language  |                    |                    |
 | 9             | March 18      | Podcast 4 (SB)      | Spring Break  |                    |D	Wright, L	Yue, A Kanther,      |
-| 10            | March 25      | Interactive Viz     |               |**New Unit Tuesday**|                    |
+| 10            | March 25      | Interactive Viz     |               |**New Unit Thursday**|                    |
 | 11            | April 1       | Podcast 5           | Tutorial      |                    |L	Xiao, Z Lei, A Lizarov, J	Nava, S Wang  |
-| 12            | April 8       | Closing the Loop    | Tutorial      |**New Unit Tuesday**|                    |
+| 12            | April 8       | Closing the Loop    | Tutorial      |**New Unit Thursday**|                    |
 | 13            | April 15      | Podcast 6           | Tutorial      |                    |M Villeroy, Y Tao, Z Lei, A Bian     |
-| 14            | April 22      | Mystery Unit Reveal | Tutorial      |**All Units Due April 23 6:00PM**|       | 
+| 14            | April 22      | Mystery Unit Reveal | Tutorial      |**All Units Due April 25 5:00PM**|       | 
 | 15            | April 29      | Tutorial            | LA End of Year Party|**Final Task**|                    |
 | 16            | May 6         | Tutorial            | No class      |**Mystery Unit Due May 7 7:00PM**  |     | 
 

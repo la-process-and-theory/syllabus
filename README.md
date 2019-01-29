@@ -75,11 +75,11 @@ One time only:
 | 4             | February 11   | Prediction          | Workshop      |                    |                    |
 | 5             | February 18   | Podcast 2           | No class      |**New Unit Thursday**|J	Li, Q	Zhou, X	Song, E Groves, SY Kao, J Wang, X Song| 
 | 6             | February 25   | Social Network      | Workshop      |                    |                    |
-| 7             | March 4       | Podcast 3           | No class      |**New Unit Thursday**|S	Yin, J Bylander, J Djuwadi, E Sawada, J Yang, S Lin|
+| 7             | March 4       | Podcast 3           | No class      |**New Unit Thursday**|S	Yin, J Bylander, J Djuwadi, E Sawada, J Yang, S Lin, G Wang|
 | 8             | March 11      | Neural Networks     | Nat Language  |                    |                    |
-| 9             | March 18      | Podcast 4 (SB)      | Spring Break  |                    |D	Wright, L	Yue, A Kanther, M Mock, G Wang, LC Yuan, X Tan  |
+| 9             | March 18      | Podcast 4 (SB)      | Spring Break  |                    |D	Wright, L	Yue, A Kanther, M Mock, G Wang, LC Yuan, S Wang  |
 | 10            | March 25      | Interactive Viz     | Workshop              |**New Unit Thursday**|                    |
-| 11            | April 1       | Podcast 5           | Workshop      |                    |L	Xiao, A Lizarov, J	Nava, S Wang, M Russel, S Ahmadzadeh  |
+| 11            | April 1       | Podcast 5           | Workshop      |                    |L	Xiao, A Lizarov, J	Nava, S Wang, M Russel, S Ahmadzadeh, X Tan, L Xiao |
 | 12            | April 8       | Closing the Loop    | Workshop      |**New Unit Thursday**|                    |
 | 13            | April 15      | Podcast 6           | Workshop      |                    |M Villeroy, Y Tao, Z Lei, A Bian, J H Feng, L Ai, Y Chen     |
 | 14            | April 22      | Workshop            | Mystery Unit/LA End of Year Party|**All Units Due April 25 5:00PM**|       | 

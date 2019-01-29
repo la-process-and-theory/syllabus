@@ -79,7 +79,7 @@ One time only:
 | 8             | March 11      | Neural Networks     | Nat Language  |                    |                    |
 | 9             | March 18      | Podcast 4 (SB)      | Spring Break  |                    |**Neural Nets-** D	Wright, L	Yue, A Kanther, M Mock, G Wang, LC Yuan, S Wang  |
 | 10            | March 25      | Interactive Viz     | Workshop              |**New Unit Thursday-**|                    |
-| 11            | April 1       | Podcast 5           | Workshop      |                    |**SNA** L	Xiao, A Lizarov, J	Nava, S Wang, M Russel, S Ahmadzadeh, X Tan, L Xiao |
+| 11            | April 1       | Podcast 5           | Workshop      |                    |**SNA-** L	Xiao, A Lizarov, J	Nava, S Wang, M Russel, S Ahmadzadeh, X Tan, L Xiao |
 | 12            | April 8       | Closing the Loop    | Workshop      |**New Unit Thursday**|                    |
 | 13            | April 15      | Podcast 6           | Workshop      |                    |**Prediction-** M Villeroy, Y Tao, Z Lei, A Bian, J H Feng, L Ai, Y Chen     |
 | 14            | April 22      | Workshop            | Mystery Unit/LA End of Year Party|**All Units Due April 25 5:00PM**|       | 

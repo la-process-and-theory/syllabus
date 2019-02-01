@@ -73,9 +73,9 @@ One time only:
 | 2             | January 28    | Recommender Systems | Workshop      |                    |                    |
 | 3             | February 4    | Podcast 1           | Workshop      |**New Unit Thursday**|**Closing the Loop-** O Ross, CA Yang, T Lee, X Zhao, C Chen, M Zeng |
 | 4             | February 11   | Prediction          | Workshop      |                    |                    |
-| 5             | February 18   | Podcast 2           | No class      |**New Unit Thursday**|**Interactive Viz-** J	Li, Q	Zhou, X	Song, E Groves, SY Kao, J Wang, X Song| 
+| 5             | February 18   | Podcast 2           | No class      |**New Unit Thursday**|**Interactive Viz-** J	Li, Q	Zhou, X	Song, J Bylander, SY Kao, J Wang, X Song| 
 | 6             | February 25   | Social Network      | Workshop      |                    |                    |
-| 7             | March 4       | Podcast 3           | No class      |**New Unit Thursday**|**NLP-** S	Yin, J Bylander, J Djuwadi, E Sawada, J Yang, S Lin, G Wang|
+| 7             | March 4       | Podcast 3           | No class      |**New Unit Thursday**|**NLP-** S	Yin, E Groves, J Djuwadi, E Sawada, J Yang, S Lin, G Wang|
 | 8             | March 11      | Neural Networks     | Nat Language  |                    |                    |
 | 9             | March 18      | Podcast 4 (SB)      | Spring Break  |                    |**Neural Nets-** D	Wright, L	Yue, A Kanther, M Mock, G Wang, LC Yuan, S Wang  |
 | 10            | March 25      | Interactive Viz     | Workshop              |**New Unit Thursday-**|                    |

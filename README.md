@@ -71,7 +71,7 @@ One time only:
 | ------------- | ------------- | -------------       | ------------- | -------------      | ---------------    |
 | 1             | January 21    | No class            | Introduction  |                    |                    |
 | 2             | January 28    | Recommender Systems | Workshop      |                    |                    |
-| 3             | February 4    | Podcast 1           | Workshop      |**New Unit Thursday**|**Closing the Loop-** O Ross, CA Yang, T Lee, X Zhao, C Chen, M Zeng |
+| 3             | February 4    | Podcast 1           | Workshop      |**New Unit Thursday**|**Closing the Loop-** O Ross, CA Yang, X Zhao, C Chen, M Zeng |
 | 4             | February 11   | Prediction          | Workshop      |                    |                    |
 | 5             | February 18   | Podcast 2           | No class      |**New Unit Thursday**|**Interactive Viz-** J Li, Q Zhou, X	Song, J Bylander, SY Kao, J Wang, X Song| 
 | 6             | February 25   | Social Network      | Workshop      |                    |                    |

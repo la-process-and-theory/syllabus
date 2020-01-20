@@ -67,24 +67,24 @@ One time only:
 
 * Final task
 
-| Week          | Week Starting | Tuesday             | Thursday      | Change Unit        | Group Project      |
-| ------------- | ------------- | -------------       | ------------- | -------------      | ---------------    |
-| 1             | January 20    | No class            | Introduction  |                    |                    |
-| 2             | January 27    | Recommender Systems | Workshop      |                    |                    |
-| 3             | February 3    | Podcast 1           | Workshop      |**New Unit Thursday**| |
-| 4             | February 10   | Prediction          | Workshop      |                    |                    |
-| 5             | February 17   | Podcast 2           | No class      |**New Unit Thursday**| | 
-| 6             | February 24   | Social Network      | Workshop      |                    |                    |
-| 7             | March 3       | Podcast 3           | No class      |**New Unit Thursday**| |
-| 8             | March 10      | Neural Networks     | Nat Language  |                    |                    |
-| 9             | March 17      | Podcast 4 (SB)      | Spring Break  |                    | |
-| 10            | March 25      | Interactive Viz     | Workshop      |**New Unit Thursday**|                    |
-| 11            | April 1       | Podcast 5           | Workshop      |                    ||
-| 12            | April 8       | Closing the Loop    | Workshop      |**New Unit Thursday**|                    |
-| 13            | April 15      | Podcast 6           | Workshop      |                    ||
-| 14            | April 22      | Workshop            | Mystery Unit/LA End of Year Party|**All Units Due April 25 5:00PM**|       | 
-| 15            | April 29      | Workshop            | Workshop     |**Final Task**|                    |
-| 16            | May 6         | Workshop            | No class      |**Mystery Unit Due May 7 7:00PM**  |     | 
+| Week          | Week Starting | Tuesday             | Thursday      | Change Unit         | Group Project      |
+| ------------- | ------------- | -------------       | ------------- | -------------       | ---------------    |
+| 1             | January 20    | No class            | Introduction  |                     |                    |
+| 2             | January 27    | Recommender Systems | Workshop      |                     |                    |
+| 3             | February 3    | Podcast 1           | Workshop      |**New Unit Thursday**|                    |
+| 4             | February 10   | Prediction          | Workshop      |                     |                    |
+| 5             | February 17   | Podcast 2           | No class      |**New Unit Thursday**|                    | 
+| 6             | February 24   | Social Network      | Workshop      |                     |                    |
+| 7             | March 2       | Podcast 3           | No class      |**New Unit Thursday**|                    |
+| 8             | March 9       | Neural Networks     | Nat Language  |                     |                    |
+| 9             | March 16      | Podcast 4 (SB)      | Spring Break  |                     |                    |
+| 10            | March 23      | Interactive Viz     | Workshop      |**New Unit Thursday**|                    |
+| 11            | March 30      | Podcast 5           | Workshop      |                     |                    |
+| 12            | April 6       | Closing the Loop    | Workshop      |**New Unit Thursday**|                    |
+| 13            | April 13      | Podcast 6           | Workshop      |                     |                    |
+| 14            | April 20      | Workshop            | Mystery Unit  |**All Units Due April 30 7:00PM**|        | 
+| 15            | April 27      | Workshop            | Workshop      |**Final Task**       |                    |
+| 16            | May 4         | Workshop            | No class      |**Mystery Unit Due May 12 7:00PM**|       | 
 
 
 ## Fine Print

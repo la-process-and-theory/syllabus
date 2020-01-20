@@ -71,19 +71,19 @@ One time only:
 | ------------- | ------------- | -------------       | -------------       | -------------       | ---------------    |
 | 1             | January 20    | No class            | Introduction        |                     |                    |
 | 2             | January 27    | SQL                 | Group Proj Intro/SQL|                     |                    |
-| 3             | February 3    | Recommender Systems | Social Networks     |**New Unit Thursday**|                    |
+| 3             | February 3    | Recommender Systems | Social Networks     ||                    |
 | 4             | February 10   | Prediction          | Group 1 Present     |                     |                    |
-| 5             | February 17   | Neural Networks I   | Neural Networks II|**New Unit Thursday**|                    | 
+| 5             | February 17   | Neural Networks I   | Neural Networks II  ||                    | 
 | 6             | February 24   | Interactive Viz     | Group 2 Present     |                     |                    |
-| 7             | March 2       | Natural Language I  | Natural Language II |**New Unit Thursday**|                    |
+| 7             | March 2       | Natural Language I  | Natural Language II ||                    |
 | 8             | March 9       | Closing the Loop    | Group 3 Present     |                     |                    |
 | 9             | March 16      | Spring Break        | Spring Break        |                     |                    |
-| 10            | March 23      | Guest User Testing  | Group 4 Present     |**New Unit Thursday**|                    |
-| 11            | March 30      |                     | Workshop            |                     |                    |
-| 12            | April 6       |                     | Group 5 Present     |**New Unit Thursday**|                    |
-| 13            | April 13      | Group 6             | Workshop            |                     |                    |
-| 14            | April 20      | Workshop            | Group 6 Present     |**All Units Due April 30 7:00PM**|        | 
-| 15            | April 27      | Workshop            | Workshop            |**Final Task**       |                    |
+| 10            | March 23      | Guest User Testing  | Group 4 Present     |**Unit Due March 23 7:00PM**|                    |
+| 11            | March 30      |                     | Workshop            |**Unit Due March 30 7:00PM**|                    |
+| 12            | April 6       |                     | Group 5 Present     |**Unit Due April 6 7:00PM** |                    |
+| 13            | April 13      | Group 6             | Workshop            |**Unit Due April 13 7:00PM**|                    |
+| 14            | April 20      | Workshop            | Group 6 Present     |**Unit Due April 30 7:00PM**|        | 
+| 15            | April 27      | Workshop            | Workshop            |**Unit Due April 27 7:00PM**|                    |
 | 16            | May 4         | Workshop            | No class            |**Mystery Unit Due May 12 7:00PM**|       | 
 
 

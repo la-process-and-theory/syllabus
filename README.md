@@ -67,24 +67,24 @@ One time only:
 
 * Final task
 
-| Week          | Week Starting | Tuesday             | Thursday      | Change Unit         | Group Project      |
-| ------------- | ------------- | -------------       | ------------- | -------------       | ---------------    |
-| 1             | January 20    | No class            | Introduction  |                     |                    |
-| 2             | January 27    | Recommender Systems | Workshop      |                     |                    |
-| 3             | February 3    | Podcast 1           | Workshop      |**New Unit Thursday**|                    |
-| 4             | February 10   | Prediction          | Workshop      |                     |                    |
-| 5             | February 17   | Podcast 2           | No class      |**New Unit Thursday**|                    | 
-| 6             | February 24   | Social Network      | Workshop      |                     |                    |
-| 7             | March 2       | Podcast 3           | No class      |**New Unit Thursday**|                    |
-| 8             | March 9       | Neural Networks     | Nat Language  |                     |                    |
-| 9             | March 16      | Podcast 4 (SB)      | Spring Break  |                     |                    |
-| 10            | March 23      | Interactive Viz     | Workshop      |**New Unit Thursday**|                    |
-| 11            | March 30      | Podcast 5           | Workshop      |                     |                    |
-| 12            | April 6       | Closing the Loop    | Workshop      |**New Unit Thursday**|                    |
-| 13            | April 13      | Podcast 6           | Workshop      |                     |                    |
-| 14            | April 20      | Workshop            | Mystery Unit  |**All Units Due April 30 7:00PM**|        | 
-| 15            | April 27      | Workshop            | Workshop      |**Final Task**       |                    |
-| 16            | May 4         | Workshop            | No class      |**Mystery Unit Due May 12 7:00PM**|       | 
+| Week          | Week Starting | Tuesday             | Thursday            | Change Unit         | Group Project      |
+| ------------- | ------------- | -------------       | -------------       | -------------       | ---------------    |
+| 1             | January 20    | No class            | Introduction        |                     |                    |
+| 2             | January 27    | SQL                 | Group Proj Intro/SQL|                     |                    |
+| 3             | February 3    | Recommender Systems | Social Networks     |**New Unit Thursday**|                    |
+| 4             | February 10   | Prediction          | Group 1 Present     |                     |                    |
+| 5             | February 17   | Neural Networks I   | Neural Networks II  |**New Unit Thursday**|                    | 
+| 6             | February 24   | Interactive Viz     | Group 2 Present     |                     |                    |
+| 7             | March 2       | Natural Language I  | Natural Language II |**New Unit Thursday**|                    |
+| 8             | March 9       | Closing the Loop    | Group 3 Present     |                     |                    |
+| 9             | March 16      | Spring Break        | Spring Break        |                     |                    |
+| 10            | March 23      | Guest User Testing  | Group 4 Present     |**New Unit Thursday**|                    |
+| 11            | March 30      |                     | Workshop            |                     |                    |
+| 12            | April 6       |                     | Group 5 Present     |**New Unit Thursday**|                    |
+| 13            | April 13      | Group 6             | Workshop            |                     |                    |
+| 14            | April 20      | Workshop            | Group 6 Present     |**All Units Due April 30 7:00PM**|        | 
+| 15            | April 27      | Workshop            | Workshop            |**Final Task**       |                    |
+| 16            | May 4         | Workshop            | No class            |**Mystery Unit Due May 12 7:00PM**|       | 
 
 
 ## Fine Print

@@ -73,7 +73,7 @@ One time only:
 | 2             | January 27    | SQL                 | Group Proj Intro/SQL|                     |                    |
 | 3             | February 3    | Recommender Systems | Social Networks     |**New Unit Thursday**|                    |
 | 4             | February 10   | Prediction          | Group 1 Present     |                     |                    |
-| 5             | February 17   | Neural Networks I   | Neural Networks II  |**New Unit Thursday**|                    | 
+| 5             | February 17   | Neural Networks I   | Neural Networks II|**New Unit Thursday**|                    | 
 | 6             | February 24   | Interactive Viz     | Group 2 Present     |                     |                    |
 | 7             | March 2       | Natural Language I  | Natural Language II |**New Unit Thursday**|                    |
 | 8             | March 9       | Closing the Loop    | Group 3 Present     |                     |                    |

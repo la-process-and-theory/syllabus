@@ -67,21 +67,21 @@ One time only:
 
 * Final task
 
-| Week          | Week Starting | Tuesday             | Thursday      | Change Unit        | Podcasters         |
+| Week          | Week Starting | Tuesday             | Thursday      | Change Unit        | Group Project      |
 | ------------- | ------------- | -------------       | ------------- | -------------      | ---------------    |
-| 1             | January 21    | No class            | Introduction  |                    |                    |
-| 2             | January 28    | Recommender Systems | Workshop      |                    |                    |
-| 3             | February 4    | Podcast 1           | Workshop      |**New Unit Thursday**|**Closing the Loop-** O Ross, CA Yang, X Zhao, C Chen, M Zeng |
-| 4             | February 11   | Prediction          | Workshop      |                    |                    |
-| 5             | February 18   | Podcast 2           | No class      |**New Unit Thursday**|**Interactive Viz-** J Li, Q Zhou, X	Song, C Chen, SY Kao, J Wang, X Song| 
-| 6             | February 25   | Social Network      | Workshop      |                    |                    |
-| 7             | March 4       | Podcast 3           | No class      |**New Unit Thursday**|**NLP-** S	Yin, E Groves, J Djuwadi, E Sawada, S Lin, G Wang, A Cornejo|
-| 8             | March 11      | Neural Networks     | Nat Language  |                    |                    |
-| 9             | March 18      | Podcast 4 (SB)      | Spring Break  |                    |**Neural Nets-** D	Wright, L	Yue, A Kanther, M Mock, LC Yuan, S Wang  |
-| 10            | March 25      | Interactive Viz     | Workshop              |**New Unit Thursday-**|                    |
-| 11            | April 1       | Podcast 5           | Workshop      |                    |**SNA-** A Lizarov, X Tan, L Xiao, A Bian, Z Lei|
+| 1             | January 20    | No class            | Introduction  |                    |                    |
+| 2             | January 27    | Recommender Systems | Workshop      |                    |                    |
+| 3             | February 3    | Podcast 1           | Workshop      |**New Unit Thursday**| |
+| 4             | February 10   | Prediction          | Workshop      |                    |                    |
+| 5             | February 17   | Podcast 2           | No class      |**New Unit Thursday**| | 
+| 6             | February 24   | Social Network      | Workshop      |                    |                    |
+| 7             | March 3       | Podcast 3           | No class      |**New Unit Thursday**| |
+| 8             | March 10      | Neural Networks     | Nat Language  |                    |                    |
+| 9             | March 17      | Podcast 4 (SB)      | Spring Break  |                    | |
+| 10            | March 25      | Interactive Viz     | Workshop      |**New Unit Thursday**|                    |
+| 11            | April 1       | Podcast 5           | Workshop      |                    ||
 | 12            | April 8       | Closing the Loop    | Workshop      |**New Unit Thursday**|                    |
-| 13            | April 15      | Podcast 6           | Workshop      |                    |**Prediction-** M Villeroy, Y Tao, J H Feng, L Ai, Y Chen     |
+| 13            | April 15      | Podcast 6           | Workshop      |                    ||
 | 14            | April 22      | Workshop            | Mystery Unit/LA End of Year Party|**All Units Due April 25 5:00PM**|       | 
 | 15            | April 29      | Workshop            | Workshop     |**Final Task**|                    |
 | 16            | May 6         | Workshop            | No class      |**Mystery Unit Due May 7 7:00PM**  |     | 

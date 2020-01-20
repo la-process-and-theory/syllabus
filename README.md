@@ -79,7 +79,7 @@ One time only:
 | 8             | March 9       | Closing the Loop    | Group 3 Present     |                             |
 | 9             | March 16      | Spring Break        | Spring Break        |                             |
 | 10            | March 23      | Guest User Testing  | Group 4 Present     |**Unit Due March 23 7:00PM** |
-| 11            | March 30      | Class choice        | Workshop            |**Unit Due March 30 7:00PM** |
+| 11            | March 30      | Class choice        | Class choice        |**Unit Due March 30 7:00PM** |
 | 12            | April 6       | Class choice        | Group 5 Present     |**Unit Due April 6 7:00PM**  |
 | 13            | April 13      | Class choice        | Class choice        |**Unit Due April 13 7:00PM** |
 | 14            | April 20      | Class choice        | Group 6 Present     |**Unit Due April 30 7:00PM** |

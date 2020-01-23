@@ -68,7 +68,7 @@ One time only:
 
 * Final task
 
-| Week          | Week Starting | Tuesday             | Thursday            | Change Unit                 | 
+| Week          | Week Starting | Tuesday             | Thursday            | Deliverables                | 
 | ------------- | ------------- | -------------       | -------------       | -------------               | 
 | 1             | January 20    | No class            | Introduction        |                             |
 | 2             | January 27    | SQL                 | Group Proj Intro/SQL|                             |

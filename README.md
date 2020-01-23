@@ -41,8 +41,8 @@ Weekly:
 
 One time only:
  * In person meeting with instructor
- * 7 assignments
- * Real World Group Assignment
+ * 8 assignments
+ * Real World Group Assignment & Presentation
 
 ## Units
 
@@ -73,7 +73,7 @@ One time only:
 | 1             | January 20    | No class            | Introduction        |                             |
 | 2             | January 27    | SQL                 | Group Proj Intro/SQL|                             |
 | 3             | February 3    | Recommender Systems | Social Networks     |                             |
-| 4             | February 10   | Prediction          | Group 1 Present     |                             |
+| 4             | February 10   | Prediction          | Group 1 Present     |**Unit 1 Due February 10 7:00PM**|
 | 5             | February 17   | Neural Networks I   | Neural Networks II  |                             | 
 | 6             | February 24   | Interactive Viz     | Group 2 Present     |                             |
 | 7             | March 2       | Natural Language I  | Natural Language II |                             |

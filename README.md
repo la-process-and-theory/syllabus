@@ -2,6 +2,7 @@
 
 * **Course:** [HUDK 4051, Teachers College, Columbia](https://github.com/la-theory-and-practice)
 * **Instructor:** Charles Lang, [charles.lang@tc.columbia.edu](charles.lang@tc.columbia.edu), @learng00d
+* **Course Assistant** Dr. Megan Krou
 * **Day/Time:** Tuesdays & Thursdays, 5:10pm - 6:50pm [(Import to your calendar)](https://calendar.google.com/calendar/b/1?cid=dGMuY29sdW1iaWEuZWR1XzdvNXJndGNtY243ZWw2dGxlNTMxdGpzdm9vQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) **- You will need to be logged in to your TC account to view** 
 * **Location:** GDH 277
 * **Instructor Office Hours:** Tuesdays & Thursdays, 3:00pm - 5:00pm [by appointment](https://calendar.google.com/calendar/selfsched?sstoken=UUNxY1RIY01kNmJZfGRlZmF1bHR8M2U5ODgxZmNiOWQ0NDc2N2VmNWQ0NThiM2JmMGRmZmQ) in GDH 454

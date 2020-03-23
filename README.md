@@ -41,7 +41,7 @@ Weekly:
 
 One time only:
  * In person meeting with instructor
- * 8 assignments
+ * 7 assignments
  * Real World Group Assignment & Presentation
 
 ## Units

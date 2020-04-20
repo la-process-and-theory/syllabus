@@ -83,8 +83,8 @@ One time only:
 | 11            | March 30      | Class choice        | Class choice        |**Unit Due March 30 7:00PM** |
 | 12            | April 6       | Group 4 Present     | Class choice        |**Unit Due April 6 7:00PM**  |
 | 13            | April 13      | Class choice        | Class choice        |**Unit Due April 13 7:00PM** |
-| 14            | April 20      | Class choice        | Group 5 Present     |**Unit Due April 20 7:00PM** |
-| 15            | April 27      | Class choice        | Class choice        |**Unit Due April 27 7:00PM** |
+| 14            | April 20      | Class choice        | Class choice        |**Unit Due April 20 7:00PM** |
+| 15            | April 27      | Class choice        | Group 5 Present     |**Unit Due April 27 7:00PM** |
 | 16            | May 4         | Group 6 Present     | No class            |**Unit Due May 4 7:00PM**    |
 
 *Class choice are classes where the class votes to determine the topic to go into greater depth on or the whether to workshop their assignments.

@@ -1,11 +1,10 @@
 # Learning Analytics, Process & Theory: Syllabus
 
 * **Course:** [HUDK 4051, Teachers College, Columbia](https://github.com/la-theory-and-practice)
-* **Instructor:** Charles Lang, [charles.lang@tc.columbia.edu](charles.lang@tc.columbia.edu), @learng00d
-* **Course Assistant:** Dr. Megan Krou
-* **Day/Time:** Tuesdays & Thursdays, 5:10pm - 6:50pm [(Import to your calendar)](https://calendar.google.com/calendar/b/1?cid=dGMuY29sdW1iaWEuZWR1XzdvNXJndGNtY243ZWw2dGxlNTMxdGpzdm9vQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) **- You will need to be logged in to your TC account to view** 
-* **Location:** HM 152
-* **Instructor Office Hours:** Tuesdays & Thursdays, 3:00pm - 5:00pm [by appointment](https://calendar.google.com/calendar/selfsched?sstoken=UUNxY1RIY01kNmJZfGRlZmF1bHR8M2U5ODgxZmNiOWQ0NDc2N2VmNWQ0NThiM2JmMGRmZmQ) in GDH 454
+* **Instructor:** Charles Lang, [charles.lang@tc.columbia.edu](charles.lang@tc.columbia.edu)
+* **Course Assistant:** Hsiao Yang, [hty2104@tc.columbia.edu](hty2104@tc.columbia.edu)
+* **Day/Time:** [(Import to your calendar)](https://calendar.google.com/calendar/u/0?cid=dGMuY29sdW1iaWEuZWR1XzdvNXJndGNtY243ZWw2dGxlNTMxdGpzdm9vQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) **- You will need to be logged in to your TC account to view** 
+* **Instructor Office Hours:** [Online by appointment](https://calendar.google.com/calendar/selfsched?sstoken=UU9JY2xseUx5TWhDfGRlZmF1bHR8NmNjYzM5OTAxYTdhYmM2ZWI3OWZmM2M2YjQzNDM0YmM)
 *  **Prerequisite:** None, but please see the instructor if you have no statistics or computer science background
 *  **Credits:** 3
 *  **Required Technology:** Laptop with RStudio installed, AWS account, Github account
@@ -19,15 +18,12 @@ The Internet and mobile computing are changing our relationship to data. Data ca
 The overarching goal of this course is for students to acquire the knowledge and skills to be intelligent producers and consumers of data in education. By the end of the course students should:
 
  * Develop a portfolio of educational data science projects
- * Be able to evaluate the implications of data science for educational research, policy, and practice 
 
 This necessarily means that students become comfortable with the educational applications of three domain areas: computer science, statistics and the context surrounding data use. There is no expectation for students to become experts in any one of these areas but rather the course will aim to: enhance student competency in identifying issues at the level of data acquisition, data analysis and application of analyses to the educational enterprise.
 
 ## Course Structure
 
-HUDK 4051 is a **disaggregated course** in which students choose the order in which they wish to complete the course content. The course is made up of eight units, the first and last unit are preset, but the other units are completed in the order that students choose. Students will have two weeks to complete each unit.
-
-The class meets twice per week. However, Monday classes will be devoted to recording a podcast and only those students who are signed up to attened are required to. The podcast will provide the content matter on topics from each unit. Wednesday class will be activity based, an opportunity to ask questions about work, do activities and dicussion.
+HUDK 4051 is a **disaggregated course** in which students choose the order in which they wish to complete the course content. The course is made up of seven units, the first is preset, but the other units are completed in the order that students choose. Students will have two weeks to complete each unit.
 
 ## Assessment
 
@@ -35,22 +31,16 @@ In HUDK 4051 students will be assessed on their completion of the projects assoc
 
 Tasks that need to be completed during the semester:
 
-Weekly:
- * Attend class
- * Complete activities within each unit by a given date
-
-One time only:
- * In person meeting with instructor
- * 7 assignments
- * Real World Group Assignment & Presentation
+ * Attend five office hour sessions
+ * Complete assignments
 
 ## Units
 
-**January 22**
+**January 27**
 
-* [Recommender Systems: Collaborative Filters](https://github.com/la-process-and-theory/recommender-systems) 
+* [SQL and Databases](https://github.com/la-process-and-theory/sql-db-setup)
 
-**Januray 29 - April 26**
+**Januray 29 - April 21**
 
 * [Prediction: Telling the Future](https://github.com/la-process-and-theory/prediction)
 
@@ -64,30 +54,7 @@ One time only:
 
 * [Closing the Loop: Converting Insight into Action](https://github.com/la-process-and-theory/loop-closing)
 
-**April 23**
 
-* Final task
-
-| Week          | Week Starting | Tuesday             | Thursday            | Deliverables                | 
-| ------------- | ------------- | -------------       | -------------       | -------------               | 
-| 1             | January 20    | No class            | Introduction        |                             |
-| 2             | January 27    | SQL                 | Group Proj Intro/SQL|                             |
-| 3             | February 3    | Recommender Systems | Social Networks     |                             |
-| 4             | February 10   | Prediction          | Group 1 Present     |**Unit 1 Due February 10 7:00PM**|
-| 5             | February 17   | Neural Networks I   | Neural Networks II  |                             | 
-| 6             | February 24   | Interactive Viz     | Group 2 Present     |                             |
-| 7             | March 2       | Natural Language I  | Natural Language II |                             |
-| 8             | March 9       | Closing the Loop    | Group 3 Present     |                             |
-| 9             | March 16      | Spring Break        | Spring Break        |                             |
-| 10            | March 23      | Logistic Curves     | Guest User Testing  |                             |
-| 11            | March 30      | Class choice        | Class choice        |**Unit Due March 30 7:00PM** |
-| 12            | April 6       | Group 4 Present     | Class choice        |**Unit Due April 6 7:00PM**  |
-| 13            | April 13      | Class choice        | Class choice        |**Unit Due April 13 7:00PM** |
-| 14            | April 20      | Class choice        | Class choice        |**Unit Due April 20 7:00PM** |
-| 15            | April 27      | Class choice        | Group 5 Present     |**Unit Due April 27 7:00PM** |
-| 16            | May 4         | Group 6 Present     | No class            |**Unit Due May 4 7:00PM**    |
-
-*Class choice are classes where the class votes to determine the topic to go into greater depth on or the whether to workshop their assignments.
 
 ## Fine Print
 
